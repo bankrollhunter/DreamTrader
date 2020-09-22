@@ -1,0 +1,8 @@
+env
+*.pickle
+data
+report
+qtpylib
+__pycache__
+watchingStocks
+config.json
