@@ -7,7 +7,7 @@
 
 ## 已知的bug
 
-1. 生成report时, 在生成行业市场宽度会有NaN. （删除本地最新的report/daily-report-YYYY-MM-DD.txt)
+1. 生成report时, 在生成行业市场宽度会有NaN. 解决方案：删除本地最新的report/daily-report-YYYY-MM-DD.txt, 再跑一边脚本。
 
 ## 如何贡献repo
 
