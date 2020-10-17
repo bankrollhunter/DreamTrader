@@ -121,7 +121,6 @@ tables==3.6.1
 toml==0.10.1
 toolz==0.10.0
 trading-calendars==1.11.11
-Twisted==17.9.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.10
