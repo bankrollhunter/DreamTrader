@@ -1,9 +1,19 @@
 # DreamTrader
 
+## 简述
+
+自动化按照技术形态选股. 自动筛选，诸如多头排列，破线，拐头，交叉，大幅乖离的股票。
+
 ## 如何使用
+
+#### 本地部署
 
 1. 创建JQData的账号。将config-example.json, 重命名. 并填入你的用户名和密码
 2. 执行脚本 ./daily_analyse.sh
+
+#### 报告
+
+如果不想本地部署，可直接参考每天生成的报告[report](https://github.com/bankrollhunter/DreamTrader/tree/master/report)
 
 ## 已知的bug
 
