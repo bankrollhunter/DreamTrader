@@ -18,6 +18,121 @@
 
 如果不想本地部署，可直接参考每天生成的报告[report](https://github.com/bankrollhunter/DreamTrader/tree/master/report)
 
+通过搜索关键词的方式查看报告: 例如搜索Cross, 表示上穿均线，搜索Near在均线附近。 下面即为一个报告的例子（EMA5上穿EMA20）：
+
+```
+EMA5 Cross EMA20 -----------------------------------------------
+-----Stock trend report: 葛洲坝-----
+{'code': '600068.XSHG', 'display_name': '葛洲坝', 'name': 'GZB', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: 0.03%
+ema20 bias: -2.03%
+ema5 > ema20: True
+ema5 angle
+0    2.831407
+1    0.743188
+2    0.495474
+3    0.330321
+4    0.220215
+ema20 angle
+0    0.449887
+1    0.079645
+2    0.072060
+3    0.065197
+4    0.058988
+NATR
+109    1.782584
+110    1.721388
+111    1.646210
+112    1.611067
+113    1.616929
+114    1.586433
+115    1.581460
+116    1.468499
+117    1.363606
+118    1.266206
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58842926  600068.XSHG    6.1095             NaN    0.8613     0.264    -8.2032       460477.75    273.5238        460477.75                273.5238  2020-10-02        5.0264
+
+
+-----Stock trend report: 白云山-----
+{'code': '600332.XSHG', 'display_name': '白云山', 'name': 'BYS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 2.03%
+ema20 bias: -2.25%
+ema5 > ema20: True
+ema5 angle
+0    14.913712
+1    15.689533
+2     0.797920
+3     2.630971
+4    46.864497
+ema20 angle
+0     0.423300
+1     2.073672
+2    -0.960409
+3    -0.268781
+4    16.274920
+NATR
+109    2.290150
+110    2.237183
+111    2.161124
+112    2.075078
+113    2.010978
+114    1.996176
+115    1.960134
+116    1.982202
+117    1.884676
+118    2.240741
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58843707  600332.XSHG   20.4035             NaN     1.964    0.7906    22.3721     162579.0938    490.8263      140589.0938                424.4385  2020-10-02       15.3918
+
+
+-----Stock trend report: 上海银行-----
+{'code': '601229.XSHG', 'display_name': '上海银行', 'name': 'SHYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.26%
+ema20 bias: 0.24%
+ema5 > ema20: True
+ema5 angle
+0    2.245922
+1    2.070104
+2    0.616705
+3    1.365821
+4    1.864988
+ema20 angle
+0    0.087834
+1    0.243169
+2    0.001742
+3    0.274411
+4    0.521100
+NATR
+109    1.542799
+110    1.490011
+111    1.453183
+112    1.492613
+113    1.463176
+114    1.489014
+115    1.463425
+116    1.434381
+117    1.452409
+118    1.476845
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58844487  601229.XSHG    5.5824             NaN    0.7108      2.31     4.8913     1420652.875   1156.4114      1359614.375               1106.7261  2020-10-02        5.6973
+```
+
 ## 项目结构
 
 入口为main.py. 目前会筛选：
