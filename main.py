@@ -29,7 +29,6 @@ selector.filterLongEM5CrossEMA20()
 selector.filterNearEMA20()
 selector.filterNearEMA60()
 selector.filterNearEMA120()
-
 selector.filterChangeDirectionEMA20()
 
 good_stock = ['603885.XSHG', '600031.XSHG', '002607.XSHE',
