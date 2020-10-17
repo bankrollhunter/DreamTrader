@@ -23,7 +23,7 @@ ConfigArgParse==0.15.1
 configobj==5.0.6
 constantly==15.1.0
 contextlib2==0.6.0.post1
-cryptography==2.1.4
+cryptography==2.3
 cycler==0.10.0
 decorator==4.4.2
 distlib==0.3.0
