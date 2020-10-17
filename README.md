@@ -18,7 +18,7 @@
 
 如果不想本地部署，可直接参考每天生成的报告[report](https://github.com/bankrollhunter/DreamTrader/tree/master/report)
 
-通过搜索关键词的方式查看报告: 例如搜索Cross, 表示上穿均线，搜索Near在均线附近。 下面即为一个报告的例子（EMA5上穿EMA20）：
+通过搜索关键词的方式查看报告: 例如搜索Cross, 表示上穿均线. 同理：搜索Near，表示在均线附近。 下面即为一个报告的例子（EMA5上穿EMA20）：
 
 ```
 EMA5 Cross EMA20 -----------------------------------------------
