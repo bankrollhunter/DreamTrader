@@ -8,8 +8,11 @@
 
 #### 本地部署
 
-1. 创建JQData的账号。将config-example.json, 重命名. 并填入你的用户名和密码
-2. 执行脚本 ./daily_analyse.sh
+
+1. 创建JQData的账号 (聚宽账户)。将config-example.json重命名为config.json. 并填入你的用户名和密码. config.json为你的配置文件.
+2. 确保你的系统安装Python3, virtualenv. 执行安装脚本./install.sh. 如果没有virtualenv, 使用pip install -r requirements.txt直接安装依赖.
+3. 并在当前项目目录下新建data和report目录用来存放数据，报告。
+4. 执行脚本 ./daily_analyse.sh. 在report中会生成报告，如果出现NaN, 删除该报告，重新跑一遍
 
 #### 报告
 
