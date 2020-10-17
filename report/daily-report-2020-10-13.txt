@@ -1,0 +1,6183 @@
+Connect to JDData status: True
+report first level market breadth
+HS300 index
+113 : 22.67%
+114 : 20.00%
+115 : 40.00%
+116 : 75.67%
+117 : 68.00%
+report HY001 能源
+113 : 22.08%
+114 : 10.39%
+115 : 31.17%
+116 : 75.32%
+117 : 63.64%
+report HY002 材料
+113 : 16.41%
+114 : 14.87%
+115 : 32.82%
+116 : 63.59%
+117 : 58.80%
+report HY003 工业
+113 : 14.57%
+114 : 17.05%
+115 : 35.88%
+116 : 72.45%
+117 : 66.11%
+report HY004 可选消费
+113 : 14.80%
+114 : 14.97%
+115 : 31.25%
+116 : 62.99%
+117 : 61.84%
+report HY005 日常消费
+113 : 13.46%
+114 : 16.35%
+115 : 27.40%
+116 : 55.29%
+117 : 60.10%
+report HY006 医疗保健
+113 : 15.81%
+114 : 20.06%
+115 : 42.86%
+116 : 76.29%
+117 : 78.12%
+report HY007 金融
+113 : 28.18%
+114 : 14.55%
+115 : 39.09%
+116 : 90.91%
+117 : 73.64%
+report HY008 信息技术
+113 : 15.29%
+114 : 16.32%
+115 : 36.62%
+116 : 77.94%
+117 : 72.50%
+report HY009 电信服务
+113 : 0.00%
+114 : 0.00%
+115 : 0.00%
+116 : 71.43%
+117 : 14.29%
+report HY010 公共事业
+113 : 6.42%
+114 : 8.26%
+115 : 34.86%
+116 : 76.15%
+117 : 62.39%
+report HY011 房地产
+113 : 9.03%
+114 : 9.03%
+115 : 14.58%
+116 : 45.14%
+117 : 35.42%
+report second level market breadth
+report HY477 啤酒
+113 : 42.86%
+114 : 42.86%
+115 : 57.14%
+116 : 57.14%
+117 : 57.14%
+report HY478 白酒
+113 : 10.34%
+114 : 10.34%
+115 : 27.59%
+116 : 58.62%
+117 : 72.41%
+report HY479 软饮料
+113 : 0.00%
+114 : 0.00%
+115 : 25.00%
+116 : 50.00%
+117 : 50.00%
+report HY481 食品加工和肉类
+113 : 14.43%
+114 : 20.62%
+115 : 30.93%
+116 : 57.73%
+117 : 55.67%
+report HY504 人寿与健康保险
+113 : 66.67%
+114 : 33.33%
+115 : 66.67%
+116 : 100.00%
+117 : 100.00%
+report HY523 半导体设备
+113 : 30.00%
+114 : 50.00%
+115 : 50.00%
+116 : 90.00%
+117 : 90.00%
+report HY524 半导体产品
+113 : 21.33%
+114 : 29.33%
+115 : 49.33%
+116 : 86.67%
+117 : 89.33%
+report HY446 消费电子
+113 : 22.22%
+114 : 22.22%
+115 : 44.44%
+116 : 94.44%
+117 : 83.33%
+report HY572 中药
+113 : 4.29%
+114 : 5.71%
+115 : 30.00%
+116 : 72.86%
+117 : 68.57%
+report HY491 生物科技
+113 : 22.03%
+114 : 30.51%
+115 : 67.80%
+116 : 84.75%
+117 : 88.14%
+report HY492 西药
+113 : 9.73%
+114 : 13.27%
+115 : 29.20%
+116 : 69.03%
+117 : 70.80%
+report HY485 医疗保健设备
+113 : 30.77%
+114 : 34.62%
+115 : 57.69%
+116 : 84.62%
+117 : 84.62%
+report HY486 医疗保健用品
+113 : 19.05%
+114 : 42.86%
+115 : 66.67%
+116 : 90.48%
+117 : 100.00%
+report HY487 保健护理产品经销商
+113 : 19.05%
+114 : 4.76%
+115 : 38.10%
+116 : 71.43%
+117 : 76.19%
+report HY488 保健护理服务
+113 : 20.00%
+114 : 20.00%
+115 : 20.00%
+116 : 60.00%
+117 : 80.00%
+report HY435 航空
+113 : 12.50%
+114 : 0.00%
+115 : 25.00%
+116 : 37.50%
+117 : 50.00%
+report HY439 机场服务
+113 : 25.00%
+114 : 25.00%
+115 : 25.00%
+116 : 50.00%
+117 : 25.00%
+report HY449 家用电器
+113 : 21.15%
+114 : 17.31%
+115 : 40.38%
+116 : 69.23%
+117 : 67.31%
+report HY454 鞋类
+113 : 33.33%
+114 : 22.22%
+115 : 44.44%
+116 : 66.67%
+117 : 66.67%
+report HY493 多元化银行
+113 : 6.25%
+114 : 12.50%
+115 : 12.50%
+116 : 81.25%
+117 : 50.00%
+report HY494 区域性银行
+113 : 0.00%
+114 : 0.00%
+115 : 0.00%
+116 : 71.43%
+117 : 42.86%
+report HY496 多元化金融
+113 : 75.00%
+114 : 25.00%
+115 : 75.00%
+116 : 100.00%
+117 : 100.00%
+report HY501 投资银行业与经纪业
+113 : 48.94%
+114 : 19.15%
+115 : 63.83%
+116 : 97.87%
+117 : 93.62%
+report HY505 多元化保险
+113 : 33.33%
+114 : 33.33%
+115 : 66.67%
+116 : 100.00%
+117 : 100.00%
+report HY444 汽车制造
+113 : 30.77%
+114 : 34.62%
+115 : 53.85%
+116 : 80.77%
+117 : 84.62%
+report HY445 摩托车制造
+113 : 0.00%
+114 : 25.00%
+115 : 25.00%
+116 : 50.00%
+117 : 100.00%
+report HY576 汽车零售
+113 : 0.00%
+114 : 0.00%
+115 : 0.00%
+116 : 55.56%
+117 : 55.56%
+report HY426 建筑机械与重型卡车
+113 : 20.00%
+114 : 31.11%
+115 : 42.22%
+116 : 86.67%
+117 : 73.33%
+report HY466 互联网零售
+113 : 0.00%
+114 : 0.00%
+115 : 50.00%
+116 : 100.00%
+117 : 100.00%
+report HY601 新能源发电业
+113 : 15.00%
+114 : 20.00%
+115 : 65.00%
+116 : 75.00%
+117 : 70.00%
+long arrange -----------------------------------------------
+-----Stock trend report: 美的集团-----
+{'code': '000333.XSHE', 'display_name': '美的集团', 'name': 'MDJT', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 3.54%
+ema20 bias: 4.22%
+ema5 > ema20: False
+ema5 angle
+0    32.995218
+1    25.774004
+2    30.337823
+3    30.405487
+4    45.787694
+ema20 angle
+0    14.792442
+1    14.209020
+2    16.926547
+3    18.342216
+4    25.727806
+NATR
+108    2.913252
+109    2.849197
+110    2.810512
+111    2.787414
+112    2.721557
+113    2.670274
+114    2.607239
+115    2.546778
+116    2.508211
+117    2.506679
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735375  000333.XSHE   22.1684           0.342    4.8468    1.9218    31.5739     702302.1875   5088.1797      684017.4375               4955.7065  2020-09-29       21.0158
+
+
+-----Stock trend report: 泸州老窖-----
+{'code': '000568.XSHE', 'display_name': '泸州老窖', 'name': 'LZLJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 3.43%
+ema20 bias: 9.86%
+ema5 > ema20: False
+ema5 angle
+0    44.053456
+1    26.335254
+2    45.379292
+3    69.942108
+4    63.951557
+ema20 angle
+0    18.514377
+1    14.580900
+2    23.296147
+3    44.394994
+4    43.492338
+NATR
+108    4.285808
+109    4.354191
+110    4.287815
+111    4.133956
+112    4.069988
+113    3.992096
+114    3.941983
+115    3.832580
+116    3.763333
+117    3.699607
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735205  000568.XSHE   41.2553          0.5177   11.7368   13.6623   170.8227       146475.25   2109.2437      146430.6562               2108.6013  2020-09-29       45.4384
+
+
+-----Stock trend report: 长安汽车-----
+{'code': '000625.XSHE', 'display_name': '长安汽车', 'name': 'CAQC', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 5.57%
+ema20 bias: 9.32%
+ema5 > ema20: False
+ema5 angle
+0   -11.077170
+1    -6.683760
+2    11.045740
+3    10.765661
+4    31.247616
+ema20 angle
+0    -0.880216
+1    -0.578160
+2     3.945156
+3     4.547715
+4    11.810767
+NATR
+108    4.413158
+109    4.270267
+110    4.427368
+111    4.324616
+112    4.420436
+113    4.542841
+114    4.418532
+115    4.322965
+116    4.176959
+117    4.341325
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58734977  000625.XSHE   29.2908          1.1078     1.378    0.8749     9.6362     480264.8438    643.0746      390064.3438                522.2962  2020-09-29       -24.297
+
+
+-----Stock trend report: 华兰生物-----
+{'code': '002007.XSHE', 'display_name': '华兰生物', 'name': 'HLSW', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 8.22%
+ema20 bias: 3.52%
+ema5 > ema20: True
+ema5 angle
+0    38.184462
+1    46.058636
+2    65.005965
+3    58.524116
+4    51.978017
+ema20 angle
+0    16.104940
+1    22.190394
+2    38.106596
+3    37.512990
+4    36.828063
+NATR
+108    5.127053
+109    5.011357
+110    4.955670
+111    5.092436
+112    5.212567
+113    5.200968
+114    5.002278
+115    4.940084
+116    4.827958
+117    4.935715
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735674  002007.XSHE   78.5283          1.9664   15.5511   27.4605   228.7264     182436.6719   1011.6113      156696.8438                 868.884  2020-09-29       78.8198
+
+
+-----Stock trend report: 分众传媒-----
+{'code': '002027.XSHE', 'display_name': '分众传媒', 'name': 'FZCM', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 7.06%
+ema20 bias: 11.59%
+ema5 > ema20: False
+ema5 angle
+0     4.041612
+1     4.219127
+2     2.434409
+3     8.437860
+4    15.937283
+ema20 angle
+0    2.560540
+1    2.752641
+2    2.381895
+3    4.113629
+4    6.752592
+NATR
+108    4.444116
+109    4.352319
+110    4.647915
+111    4.498223
+112    4.390102
+113    4.293740
+114    4.230756
+115    4.133528
+116    4.013706
+117    4.091563
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737241  002027.XSHE   61.0575          0.9037     8.592   10.6325   805.3107       1467788.0   1172.7626        1467788.0               1172.7626  2020-09-29       62.5381
+
+
+-----Stock trend report: 三花智控-----
+{'code': '002050.XSHE', 'display_name': '三花智控', 'name': 'SHZK', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 4.20%
+ema20 bias: 3.06%
+ema5 > ema20: True
+ema5 angle
+0     8.741223
+1     6.230416
+2    31.499121
+3    24.789999
+4    10.272541
+ema20 angle
+0     2.686868
+1     2.540228
+2    11.002444
+3    10.821327
+4     7.786967
+NATR
+108    4.363787
+109    4.262307
+110    4.300501
+111    4.131614
+112    4.041842
+113    3.892269
+114    3.836219
+115    3.976648
+116    3.888386
+117    3.965392
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735718  002050.XSHE   58.0816          0.4802    8.6876    7.3944    47.1278     359204.1875    796.7149        351555.25                779.7496  2020-09-29       56.0591
+
+
+-----Stock trend report: 石基信息-----
+{'code': '002153.XSHE', 'display_name': '石基信息', 'name': 'SJXX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 6.09%
+ema20 bias: 5.43%
+ema5 > ema20: True
+ema5 angle
+0    12.762578
+1     1.394233
+2    40.349777
+3    32.471490
+4    33.461244
+ema20 angle
+0    10.926950
+1     7.884216
+2    19.970470
+3    19.227667
+4    20.965845
+NATR
+108    4.398503
+109    4.227676
+110    4.395365
+111    4.225005
+112    4.121488
+113    3.948182
+114    3.959910
+115    3.994466
+116    3.874778
+117    3.844953
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737169  002153.XSHE  190.3605          0.4896    4.7969   11.7934   -23.9687     107074.4141    414.1638       48790.0977                188.7201  2020-09-29      112.5392
+
+
+-----Stock trend report: 顺丰控股-----
+{'code': '002352.XSHE', 'display_name': '顺丰控股', 'name': 'SFKG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 6.28%
+ema20 bias: 9.79%
+ema5 > ema20: False
+ema5 angle
+0    30.836171
+1    38.937596
+2    63.833928
+3    62.160921
+4    68.930527
+ema20 angle
+0    10.636122
+1    16.016369
+2    34.502051
+3    37.783060
+4    47.264079
+NATR
+108    4.229279
+109    4.122480
+110    4.119299
+111    4.047607
+112    3.877459
+113    3.762107
+114    3.661264
+115    3.696739
+116    3.699931
+117    3.846074
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735027  002352.XSHE   56.4203          0.3877    7.8736    2.7346  -143.6096     455644.0312   3643.7854      448999.4688               3590.6487  2020-09-29       62.8618
+
+
+-----Stock trend report: 立讯精密-----
+{'code': '002475.XSHE', 'display_name': '立讯精密', 'name': 'LXJM', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 5.28%
+ema20 bias: 6.28%
+ema5 > ema20: False
+ema5 angle
+0    18.596708
+1    16.750847
+2    58.585219
+3    51.962339
+4    33.110023
+ema20 angle
+0     9.444921
+1     9.782527
+2    29.530268
+3    29.503524
+4    24.457014
+NATR
+108    4.156002
+109    4.017303
+110    4.059216
+111    4.052548
+112    3.921237
+113    3.791149
+114    3.687471
+115    3.689602
+116    3.604791
+117    3.737159
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736232  002475.XSHE   69.1093          0.7726    17.453    5.1257   367.5606      698387.125   3973.8225       697507.875               3968.8196  2020-09-29       84.3015
+
+
+-----Stock trend report: 比亚迪-----
+{'code': '002594.XSHE', 'display_name': '比亚迪', 'name': 'BYD', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 12.24%
+ema20 bias: 15.96%
+ema5 > ema20: False
+ema5 angle
+0    22.919411
+1    71.931342
+2    73.671530
+3    78.672926
+4    74.440934
+ema20 angle
+0    35.106076
+1    55.058459
+2    59.332488
+3    66.519135
+4    65.136866
+NATR
+108    5.601299
+109    5.334924
+110    5.434803
+111    5.516646
+112    5.261598
+113    5.166533
+114    5.136801
+115    5.194565
+116    5.000087
+117    4.994666
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738894  002594.XSHE  161.5202          2.3571    5.3194     2.335    98.4147     272814.2812   2943.3933      114566.7578               1236.0607  2020-09-29      182.3155
+
+
+-----Stock trend report: 鹏鼎控股-----
+{'code': '002938.XSHE', 'display_name': '鹏鼎控股', 'name': 'PDKG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 3.97%
+ema20 bias: 7.72%
+ema5 > ema20: False
+ema5 angle
+0     6.237903
+1     3.407147
+2    30.527392
+3   -42.098958
+4    32.387168
+ema20 angle
+0    18.207571
+1    16.372448
+2    22.926205
+3     0.698912
+4    20.020200
+NATR
+108    4.249793
+109    4.198683
+110    4.295324
+111    4.153593
+112    4.112939
+113    4.103500
+114    3.972926
+115    4.117402
+116    4.928485
+117    4.785036
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737859  002938.XSHE   42.5769          1.6591    6.7748    4.8295    61.9013     231143.0781   1322.8319       48016.9727                274.8011  2020-09-29        45.231
+
+
+-----Stock trend report: 亿纬锂能-----
+{'code': '300014.XSHE', 'display_name': '亿纬锂能', 'name': 'YWLN', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 4.61%
+ema20 bias: 2.42%
+ema5 > ema20: True
+ema5 angle
+0    17.861822
+1     0.277168
+2    24.539408
+3    57.849676
+4    50.366497
+ema20 angle
+0     5.369513
+1     1.434365
+2     8.652793
+3    26.807617
+4    26.523038
+NATR
+108    4.785268
+109    4.663698
+110    4.888402
+111    4.739198
+112    4.633225
+113    4.480207
+114    4.436806
+115    4.397343
+116    4.335625
+117    4.248925
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736520  300014.XSHE   66.6266          1.0648   11.9131    13.072    64.5157     184042.5156    922.6052      177701.7188                890.8187  2020-09-29       60.6176
+
+
+-----Stock trend report: 同花顺-----
+{'code': '300033.XSHE', 'display_name': '同花顺', 'name': 'THS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 3.32%
+ema20 bias: 5.46%
+ema5 > ema20: False
+ema5 angle
+0    56.429992
+1    15.530191
+2    55.319885
+3    69.995571
+4    35.166942
+ema20 angle
+0    32.354801
+1    20.080409
+2    34.634538
+3    48.605074
+4    35.165897
+NATR
+108    5.196219
+109    5.003871
+110    4.777615
+111    4.660711
+112    4.507461
+113    4.437558
+114    4.458704
+115    4.216127
+116    4.166356
+117    4.153434
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58734904  300033.XSHE   81.2461          2.9643   21.8845   42.8901    70.1517         53760.0    871.1808       26888.7617                435.7324  2020-09-29       97.0485
+
+
+-----Stock trend report: 智飞生物-----
+{'code': '300122.XSHE', 'display_name': '智飞生物', 'name': 'ZFSW', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 7.34%
+ema20 bias: 5.07%
+ema5 > ema20: True
+ema5 angle
+0   -34.049919
+1    44.600286
+2    76.670853
+3    78.096170
+4    71.560464
+ema20 angle
+0     9.862361
+1    29.586559
+2    56.862158
+3    62.698303
+4    59.624818
+NATR
+108    6.655058
+109    6.616766
+110    6.630571
+111    6.794632
+112    6.991889
+113    6.994280
+114    6.652154
+115    6.413452
+116    6.087055
+117    6.199029
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737154  300122.XSHE   79.2947          1.8491   29.7854   17.2216   942.0458        160000.0      2160.0       90036.9062               1215.4982  2020-09-29       91.2764
+
+
+-----Stock trend report: 汇川技术-----
+{'code': '300124.XSHE', 'display_name': '汇川技术', 'name': 'HCJS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 6.99%
+ema20 bias: 8.78%
+ema5 > ema20: False
+ema5 angle
+0    18.605179
+1    37.153274
+2    60.789173
+3    61.550647
+4    46.859482
+ema20 angle
+0     9.293320
+1    16.721986
+2    32.557642
+3    37.392246
+4    32.817255
+NATR
+108    4.514448
+109    4.347916
+110    4.537525
+111    4.371191
+112    4.309274
+113    4.157813
+114    4.087223
+115    4.148586
+116    4.026367
+117    3.954171
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736362  300124.XSHE    72.915          0.6572    10.537   10.2396   117.1223     171972.3438    968.2043      138144.0469                 777.751  2020-09-29      101.7089
+
+
+-----Stock trend report: 三环集团-----
+{'code': '300408.XSHE', 'display_name': '三环集团', 'name': 'SHJT', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 7.09%
+ema20 bias: 5.61%
+ema5 > ema20: True
+ema5 angle
+0    19.703146
+1     9.949002
+2    35.130387
+3    49.857045
+4    26.127510
+ema20 angle
+0     8.079006
+1     6.296165
+2    14.972989
+3    24.071961
+4    17.665340
+NATR
+108    3.523174
+109    3.463602
+110    3.429565
+111    3.299168
+112    3.291562
+113    3.134123
+114    3.055591
+115    3.240973
+116    3.306727
+117    4.078080
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735102  300408.XSHE   52.6905          0.5892    6.4697   16.7594    56.2482       173787.25    505.0258      165590.2344                481.2052  2020-09-29       57.9649
+
+
+-----Stock trend report: 芒果超媒-----
+{'code': '300413.XSHE', 'display_name': '芒果超媒', 'name': 'MGCM', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 5.01%
+ema20 bias: 4.28%
+ema5 > ema20: True
+ema5 angle
+0    53.037573
+1    15.778947
+2    34.542804
+3    68.137065
+4    54.619738
+ema20 angle
+0    17.603952
+1     6.542981
+2    13.854315
+3    38.802442
+4    33.230019
+NATR
+108    4.752013
+109    4.569702
+110    4.673051
+111    4.495561
+112    4.374737
+113    4.238049
+114    4.358944
+115    4.177179
+116    4.208095
+117    4.367007
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737544  300413.XSHE   84.6257          0.7123   12.6911    9.6488   241.1702       178037.75   1232.1993       93135.7812                644.5927  2020-09-29      106.5653
+
+
+-----Stock trend report: 华能水电-----
+{'code': '600025.XSHG', 'display_name': '华能水电', 'name': 'HNSD', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 0.67%
+ema20 bias: 3.77%
+ema5 > ema20: False
+ema5 angle
+0    2.977664
+1    0.268027
+2    1.706066
+3   -0.199184
+4    0.440158
+ema20 angle
+0    0.669923
+1    0.115043
+2    0.540609
+3    0.107166
+4    0.260660
+NATR
+108    2.440477
+109    2.397013
+110    2.487866
+111    2.669689
+112    2.643528
+113    2.730350
+114    2.846982
+115    2.778738
+116    2.777260
+117    2.713205
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738461  600025.XSHG   18.6286          0.8667    1.6845     4.194  -225.6992       1800000.0       766.8         892800.0                380.3328  2020-09-29       13.8298
+
+
+-----Stock trend report: 三一重工-----
+{'code': '600031.XSHG', 'display_name': '三一重工', 'name': 'SYZG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 6.59%
+ema20 bias: 8.39%
+ema5 > ema20: False
+ema5 angle
+0     1.893885
+1     4.120713
+2    15.537470
+3    38.846247
+4    31.253577
+ema20 angle
+0     4.714456
+1     5.080267
+2     8.314792
+3    17.190575
+4    16.694380
+NATR
+108    3.722031
+109    3.610274
+110    3.576766
+111    3.631192
+112    3.550215
+113    3.439432
+114    3.306520
+115    3.319811
+116    3.407356
+117    3.491274
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736095  600031.XSHG   16.2162           0.418    4.2032     2.573  -946.4967     847279.0625   2096.1682      847279.0625               2096.1682  2020-09-29       18.7047
+
+
+-----Stock trend report: 国投资本-----
+{'code': '600061.XSHG', 'display_name': '国投资本', 'name': 'GTZB', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.37%
+ema20 bias: 3.38%
+ema5 > ema20: False
+ema5 angle
+0    -7.497304
+1     5.460681
+2     8.179152
+3    13.269077
+4     2.512550
+ema20 angle
+0   -1.214548
+1    1.901461
+2    3.027794
+3    5.020920
+4    2.697120
+NATR
+108    3.486630
+109    3.497190
+110    3.533807
+111    3.433860
+112    3.442919
+113    3.511161
+114    3.567998
+115    3.459619
+116    3.418870
+117    3.490704
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736031  600061.XSHG   17.4415           0.909    1.5349    5.2751    11.8783     422712.9688    623.5016      417383.1875                615.6402  2020-09-29        21.011
+
+
+-----Stock trend report: 宇通客车-----
+{'code': '600066.XSHG', 'display_name': '宇通客车', 'name': 'YTKC', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 4.22%
+ema20 bias: 6.80%
+ema5 > ema20: False
+ema5 angle
+0    -0.048787
+1    -1.750849
+2     8.882776
+3    14.262050
+4    14.007165
+ema20 angle
+0    2.223495
+1    1.521281
+2    4.260914
+3    6.292343
+4    6.990787
+NATR
+108    3.887396
+109    3.801059
+110    3.835995
+111    3.689848
+112    3.587465
+113    3.526380
+114    3.461364
+115    3.377425
+116    3.312580
+117    3.335980
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737187  600066.XSHG   26.5158           0.288    2.4349    1.3684    50.5314     221393.9219    350.0238      221393.9219                350.0238  2020-09-29       18.0405
+
+
+-----Stock trend report: 特变电工-----
+{'code': '600089.XSHG', 'display_name': '特变电工', 'name': 'TBDG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 4.84%
+ema20 bias: 4.71%
+ema5 > ema20: True
+ema5 angle
+0    -0.783808
+1     3.293506
+2    11.219749
+3     9.772863
+4     8.614506
+ema20 angle
+0    0.361215
+1    1.417874
+2    3.896313
+3    4.178065
+4    4.378565
+NATR
+108    3.350873
+109    3.338718
+110    3.876050
+111    3.781545
+112    3.772217
+113    3.789106
+114    3.812535
+115    3.950654
+116    3.910903
+117    3.867947
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735743  600089.XSHG   16.8567           1.041    1.0304    0.8391     -8.315     371431.2812     318.688      371431.2812                 318.688  2020-09-29        15.789
+
+
+-----Stock trend report: 国金证券-----
+{'code': '600109.XSHG', 'display_name': '国金证券', 'name': 'GJZQ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.34%
+ema20 bias: 5.50%
+ema5 > ema20: False
+ema5 angle
+0    1.358867
+1    0.906005
+2    0.604032
+3    0.402696
+4    8.606509
+ema20 angle
+0    2.316672
+1    2.096243
+2    1.896755
+3    1.716225
+4    3.947940
+NATR
+108    3.463338
+109    3.215956
+110    2.986245
+111    2.772942
+112    2.574875
+113    2.390955
+114    2.220173
+115    2.061589
+116    1.914333
+117    2.277322
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737399  600109.XSHG   27.5433             NaN    2.1528    8.6722    14.2788     302435.9375    462.4245      302435.9375                462.4245  2020-09-29       35.6111
+
+
+-----Stock trend report: 兖州煤业-----
+{'code': '600188.XSHG', 'display_name': '兖州煤业', 'name': 'YZMY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 1.36%
+ema20 bias: 2.94%
+ema5 > ema20: False
+ema5 angle
+0   -0.600643
+1   -6.106778
+2    2.024021
+3    3.827019
+4    3.315384
+ema20 angle
+0    0.598620
+1   -1.095257
+2    0.755042
+3    1.392273
+4    1.477865
+NATR
+108    2.777417
+109    2.862208
+110    2.882269
+111    3.003369
+112    3.066039
+113    3.035236
+114    3.179722
+115    3.182038
+116    3.106451
+117    3.033900
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738873  600188.XSHG    5.8761          0.8535    0.8413    0.2274     -9.182        486000.0     464.616      295987.9375                282.9645  2020-09-29        5.3602
+
+
+-----Stock trend report: 海航控股-----
+{'code': '600221.XSHG', 'display_name': '海航控股', 'name': 'HHKG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 0.52%
+ema20 bias: 3.88%
+ema5 > ema20: False
+ema5 angle
+0   -0.296694
+1   -0.579749
+2   -0.004541
+3    0.378938
+4    0.061643
+ema20 angle
+0    0.023505
+1   -0.087868
+2    0.029635
+3    0.135947
+4    0.068432
+NATR
+108    4.692066
+109    4.609351
+110    4.593177
+111    4.475897
+112    4.325959
+113    4.264127
+114    4.168064
+115    3.988032
+116    3.861318
+117    3.726038
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738764  600221.XSHG   -2.5245          0.7184    0.8548    0.6063    -1.3421       1680612.0    297.4683       1643600.25                290.9172  2020-09-29       54.7636
+
+
+-----Stock trend report: 通威股份-----
+{'code': '600438.XSHG', 'display_name': '通威股份', 'name': 'TWGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 10.48%
+ema20 bias: 11.16%
+ema5 > ema20: False
+ema5 angle
+0    26.358710
+1    12.607902
+2    46.006829
+3    44.338855
+4    44.463761
+ema20 angle
+0    12.159819
+1     9.340171
+2    21.907255
+3    24.024902
+4    26.454141
+NATR
+108    5.514245
+109    5.342952
+110    5.711741
+111    5.577645
+112    5.459719
+113    5.310001
+114    5.272244
+115    5.100086
+116    4.980172
+117    5.014799
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736173  600438.XSHG   52.5644          1.4742    5.2337    2.8714   -59.4675     428785.5625   1153.4332      428785.5625               1153.4332  2020-09-29       43.7807
+
+
+-----Stock trend report: 福耀玻璃-----
+{'code': '600660.XSHG', 'display_name': '福耀玻璃', 'name': 'FYBL', 'type': 'stock', 'parent': None}
+above5: False
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 1.40%
+ema20 bias: 10.52%
+ema5 > ema20: False
+ema5 angle
+0   -20.652828
+1    -1.601146
+2     4.651609
+3    15.335899
+4    -4.602630
+ema20 angle
+0   -1.842446
+1    1.987661
+2    3.431989
+3    6.679863
+4    1.759848
+NATR
+108    4.660642
+109    4.444372
+110    4.566571
+111    4.572508
+112    4.520696
+113    4.490071
+114    4.396255
+115    4.407488
+116    4.317949
+117    4.345926
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735535  600660.XSHG   33.7629          0.9772    3.8805    4.2018     23.894       250861.75    795.7335      200298.6406                635.3473  2020-09-29       27.4539
+
+
+-----Stock trend report: 山西汾酒-----
+{'code': '600809.XSHG', 'display_name': '山西汾酒', 'name': 'SXFJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 4.44%
+ema20 bias: 9.89%
+ema5 > ema20: False
+ema5 angle
+0   -17.424836
+1    16.388294
+2    35.478522
+3    80.657501
+4    78.621140
+ema20 angle
+0     3.859831
+1    11.577012
+2    18.415764
+3    62.268680
+4    63.238039
+NATR
+108    4.133405
+109    4.312375
+110    4.166101
+111    4.075405
+112    4.003391
+113    3.860828
+114    3.723886
+115    3.647414
+116    3.775752
+117    3.658494
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735461  600809.XSHG   73.3413          0.2219   20.6951   13.8464    176.287      87152.8281   1714.1218       86584.8281               1702.9504  2020-09-29       88.4249
+
+
+-----Stock trend report: 招商证券-----
+{'code': '600999.XSHG', 'display_name': '招商证券', 'name': 'ZSZQ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.44%
+ema20 bias: 4.23%
+ema5 > ema20: False
+ema5 angle
+0     9.092215
+1     0.956178
+2     7.282531
+3    18.014254
+4     6.661780
+ema20 angle
+0    3.283793
+1    1.500648
+2    3.264358
+3    6.852648
+4    4.582930
+NATR
+108    4.061781
+109    4.015735
+110    4.058450
+111    3.901610
+112    3.833440
+113    3.691897
+114    3.675954
+115    3.524869
+116    3.465229
+117    3.445960
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735771  600999.XSHG   23.4524          0.3858    2.1845    8.7821    21.0655     869652.6875      1902.8         742200.5               1623.9348  2020-09-29       26.1288
+
+
+-----Stock trend report: 隆基股份-----
+{'code': '601012.XSHG', 'display_name': '隆基股份', 'name': 'LJGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 9.09%
+ema20 bias: 17.79%
+ema5 > ema20: False
+ema5 angle
+0    41.318445
+1    29.222436
+2    69.696939
+3    63.944508
+4    53.474909
+ema20 angle
+0    30.019292
+1    27.255342
+2    48.537867
+3    47.558131
+4    44.583862
+NATR
+108    4.917427
+109    4.808806
+110    5.689471
+111    5.605707
+112    5.473757
+113    5.255364
+114    5.089920
+115    4.976772
+116    4.804993
+117    4.788731
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735497  601012.XSHG   38.3449           1.089    9.1321    7.2758    78.9549       377182.75   2832.2651      376754.9688                2829.053  2020-09-29       53.6459
+
+
+-----Stock trend report: 中国神华-----
+{'code': '601088.XSHG', 'display_name': '中国神华', 'name': 'ZGSH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 1.53%
+ema20 bias: 2.52%
+ema5 > ema20: False
+ema5 angle
+0    2.122022
+1    0.651358
+2    2.533445
+3    4.735024
+4    4.111743
+ema20 angle
+0    1.476675
+1    1.117924
+2    1.611399
+3    2.330108
+4    2.380821
+NATR
+108    2.017030
+109    2.009742
+110    1.993452
+111    1.966095
+112    1.948916
+113    1.908234
+114    1.884658
+115    1.884904
+116    1.853014
+117    1.851667
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738451  601088.XSHG    8.2788          0.1333    0.9452    1.4245   -27.2467       1988962.0   3283.7764       1649103.75               2722.6704  2020-09-29        7.5925
+
+
+-----Stock trend report: 恒立液压-----
+{'code': '601100.XSHG', 'display_name': '恒立液压', 'name': 'HLYY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 5.18%
+ema20 bias: 9.39%
+ema5 > ema20: False
+ema5 angle
+0    -8.186629
+1    -9.976780
+2    45.172984
+3    55.048047
+4    50.516279
+ema20 angle
+0    10.984486
+1     8.685168
+2    24.662686
+3    32.316317
+4    32.887231
+NATR
+108    3.712355
+109    3.572740
+110    3.642781
+111    3.551363
+112    3.571619
+113    3.611952
+114    3.519291
+115    3.442563
+116    3.381112
+117    3.288936
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735899  601100.XSHG   58.0293          0.2727   15.4673   15.3876   118.9369        130536.0    935.1599         130536.0                935.1599  2020-09-29       72.1463
+
+
+-----Stock trend report: 财通证券-----
+{'code': '601108.XSHG', 'display_name': '财通证券', 'name': 'CTZQ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 1.75%
+ema20 bias: 4.14%
+ema5 > ema20: False
+ema5 angle
+0    2.870204
+1   -3.808872
+2   -1.015005
+3    9.361291
+4    1.140235
+ema20 angle
+0    2.191753
+1    0.346959
+2    0.750415
+3    3.566438
+4    1.757084
+NATR
+108    4.547660
+109    4.431195
+110    4.340439
+111    4.227926
+112    4.171223
+113    4.036311
+114    4.141318
+115    3.978100
+116    3.816547
+117    3.843488
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735944  601108.XSHG   26.7199          2.4376     2.483    9.4381    11.4672        358900.0     523.994      240669.2656                351.3771  2020-09-29       27.9753
+
+
+-----Stock trend report: 东兴证券-----
+{'code': '601198.XSHG', 'display_name': '东兴证券', 'name': 'DXZQ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 1.65%
+ema20 bias: 1.51%
+ema5 > ema20: True
+ema5 angle
+0    2.704386
+1   -3.158156
+2    2.855683
+3    9.829184
+4    3.367203
+ema20 angle
+0    1.112068
+1   -0.412459
+2    1.045449
+3    3.234373
+4    2.000993
+NATR
+108    3.119262
+109    3.067507
+110    3.047182
+111    3.343371
+112    3.327724
+113    3.240457
+114    3.331637
+115    3.217744
+116    3.138223
+117    3.122542
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735808  601198.XSHG   31.5852          0.6485    1.7547    7.8285   177.1623     275796.0625    361.0171      275796.0625                361.0171  2020-09-29       29.5746
+
+
+-----Stock trend report: 陕西煤业-----
+{'code': '601225.XSHG', 'display_name': '陕西煤业', 'name': 'SXMY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 3.50%
+ema20 bias: 5.53%
+ema5 > ema20: False
+ema5 angle
+0   -0.748479
+1   -5.069396
+2    6.325985
+3    5.932125
+4    9.049540
+ema20 angle
+0    0.776669
+1   -0.606849
+2    2.232726
+3    2.510606
+4    3.740947
+NATR
+108    3.434688
+109    3.312181
+110    3.303088
+111    3.214529
+112    3.170297
+113    3.118664
+114    3.217120
+115    3.377940
+116    3.256219
+117    3.174593
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736224  601225.XSHG    8.0218          0.3231    1.4277    1.0848    50.0221       1000000.0       863.0        1000000.0                   863.0  2020-09-29        7.4119
+
+
+-----Stock trend report: 环旭电子-----
+{'code': '601231.XSHG', 'display_name': '环旭电子', 'name': 'HXDZ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 7.09%
+ema20 bias: 6.13%
+ema5 > ema20: True
+ema5 angle
+0    21.991580
+1    15.068815
+2    39.334242
+3    30.241878
+4    12.334300
+ema20 angle
+0    10.215122
+1     9.259966
+2    18.281905
+3    17.191053
+4    13.025906
+NATR
+108    4.811537
+109    4.630369
+110    4.568444
+111    4.428851
+112    4.459877
+113    4.360718
+114    4.231168
+115    4.153822
+116    4.056913
+117    4.234424
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738293  601231.XSHG   40.3908          1.3353    5.3078    1.4051    28.5417     218128.3281    556.6635      218128.3281                556.6635  2020-09-29        44.106
+
+
+-----Stock trend report: 新华保险-----
+{'code': '601336.XSHG', 'display_name': '新华保险', 'name': 'XHBX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 3.18%
+ema20 bias: 7.13%
+ema5 > ema20: False
+ema5 angle
+0    12.350137
+1   -22.327818
+2     2.073264
+3    54.152766
+4    29.658101
+ema20 angle
+0    10.599003
+1     0.587723
+2     5.588733
+3    25.505968
+4    18.299719
+NATR
+108    4.662451
+109    4.506935
+110    4.501414
+111    4.355603
+112    4.203138
+113    4.044471
+114    4.166117
+115    4.083505
+116    4.099952
+117    4.190579
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738050  601336.XSHG   16.2583          0.5537    2.1814    0.9797  -169.3962     311954.6562   1988.7111      208543.9375               1329.4677  2020-09-29       13.6597
+
+
+-----Stock trend report: 兴业证券-----
+{'code': '601377.XSHG', 'display_name': '兴业证券', 'name': 'XYZQ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.07%
+ema20 bias: 4.56%
+ema5 > ema20: False
+ema5 angle
+0    0.847537
+1   -2.489135
+2    0.631332
+3    7.820409
+4    2.570703
+ema20 angle
+0    0.804678
+1   -0.144986
+2    0.523614
+3    2.600097
+4    1.589735
+NATR
+108    3.869951
+109    3.849301
+110    3.802996
+111    3.688819
+112    3.544021
+113    3.455575
+114    3.546805
+115    3.390971
+116    3.399106
+117    3.422096
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736868  601377.XSHG   27.5896          1.1166    1.5898    3.6467     9.9621     669667.1875    565.1991      669667.1875                565.1991  2020-09-29       32.0674
+
+
+-----Stock trend report: 东吴证券-----
+{'code': '601555.XSHG', 'display_name': '东吴证券', 'name': 'DWZQ', 'type': 'stock', 'parent': None}
+above5: False
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.41%
+ema20 bias: 3.92%
+ema5 > ema20: False
+ema5 angle
+0    3.932770
+1    0.716080
+2    1.241159
+3    8.219156
+4   -0.212228
+ema20 angle
+0    2.123610
+1    1.376304
+2    1.463418
+3    3.448287
+4    1.486299
+NATR
+108    3.588788
+109    3.481877
+110    3.524848
+111    3.421477
+112    3.345996
+113    3.256056
+114    3.272730
+115    3.147662
+116    3.071100
+117    3.228570
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738213  601555.XSHG   31.7266          1.1974    1.5393    6.9136    11.0916     388051.9062    417.9319      388051.9062                417.9319  2020-09-29       40.2952
+
+
+-----Stock trend report: 中国太保-----
+{'code': '601601.XSHG', 'display_name': '中国太保', 'name': 'ZGTB', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.39%
+ema20 bias: 2.42%
+ema5 > ema20: False
+ema5 angle
+0     0.069364
+1    -4.527959
+2    12.254537
+3    27.840104
+4    13.066468
+ema20 angle
+0     1.466194
+1     0.017231
+2     4.426711
+3    10.179857
+4     7.304252
+NATR
+108    2.905808
+109    2.820730
+110    2.781095
+111    2.674938
+112    2.581697
+113    2.486628
+114    2.475530
+115    2.481477
+116    2.543046
+117    2.541880
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737502  601601.XSHG   11.7285          0.3693    1.5374    0.7553    11.6557      962034.125   3025.5974       684504.125               2152.7654  2020-09-29       10.9066
+
+
+-----Stock trend report: 中国人寿-----
+{'code': '601628.XSHG', 'display_name': '中国人寿', 'name': 'ZGRS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.44%
+ema20 bias: 8.65%
+ema5 > ema20: False
+ema5 angle
+0     0.779297
+1   -18.996760
+2    -5.114911
+3    31.396752
+4    24.396661
+ema20 angle
+0     5.653877
+1    -0.652022
+2     1.701375
+3    12.314619
+4    11.906149
+NATR
+108    4.678686
+109    4.561441
+110    4.572408
+111    4.449866
+112    4.298427
+113    4.138164
+114    4.249359
+115    4.079292
+116    4.012607
+117    3.948936
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736715  601628.XSHG   25.1013           0.082    3.1505    1.6039    54.4122       2826470.5  12857.6143        2082353.0                9472.624  2020-09-29       22.0591
+
+
+-----Stock trend report: 长城汽车-----
+{'code': '601633.XSHG', 'display_name': '长城汽车', 'name': 'CCQC', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 14.45%
+ema20 bias: 19.97%
+ema5 > ema20: False
+ema5 angle
+0     3.748374
+1    22.473690
+2    28.033056
+3    45.519404
+4    54.633116
+ema20 angle
+0     5.175014
+1    10.628290
+2    13.664486
+3    22.268434
+4    30.073350
+NATR
+108    5.896450
+109    5.735932
+110    5.869152
+111    5.755189
+112    5.450145
+113    5.621076
+114    5.618882
+115    5.636822
+116    5.407786
+117    5.359934
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737821  601633.XSHG   40.0545          0.5279    3.1019    1.8208    16.0279     917595.3125   1652.5892       602772.875                1085.594  2020-09-29       36.7497
+
+
+-----Stock trend report: 浙商证券-----
+{'code': '601878.XSHG', 'display_name': '浙商证券', 'name': 'ZSZQ', 'type': 'stock', 'parent': None}
+above5: False
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 5.79%
+ema20 bias: 7.29%
+ema5 > ema20: False
+ema5 angle
+0    17.908438
+1    19.736405
+2    15.421297
+3    12.983440
+4   -17.029286
+ema20 angle
+0     9.739835
+1    11.103385
+2    10.649481
+3    10.396086
+4     1.979512
+NATR
+108    4.812685
+109    4.893921
+110    4.905935
+111    4.938770
+112    4.865412
+113    4.843795
+114    4.791926
+115    4.959296
+116    4.943010
+117    5.687119
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735387  601878.XSHG   54.7421          3.9195     4.236    8.3582   417.2958     361404.4375    624.5069      361404.4375                624.5069  2020-09-29       64.5447
+
+
+-----Stock trend report: 中国银河-----
+{'code': '601881.XSHG', 'display_name': '中国银河', 'name': 'ZGYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 1.53%
+ema20 bias: 1.94%
+ema5 > ema20: False
+ema5 angle
+0    2.317387
+1   -3.035042
+2    4.079373
+3    9.882454
+4    2.832404
+ema20 angle
+0    0.806966
+1   -0.579435
+2    1.221699
+3    3.175815
+4    1.784380
+NATR
+108    3.503500
+109    3.404709
+110    3.404297
+111    3.318728
+112    3.258688
+113    3.132382
+114    3.171913
+115    3.087024
+116    3.041227
+117    3.040108
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735325  601881.XSHG   21.1894          0.3859       1.8    6.2755    12.6635     1013725.875   1310.7476      644627.4375                833.5032  2020-09-29       25.0696
+
+
+-----Stock trend report: 中国中免-----
+{'code': '601888.XSHG', 'display_name': '中国中免', 'name': 'ZGZM', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: True
+long arrange: True
+ema5 bias: 0.03%
+ema20 bias: 7.71%
+ema5 > ema20: False
+ema5 angle
+0    63.208327
+1    40.922823
+2   -80.052689
+3   -49.431704
+4    -4.499216
+ema20 angle
+0    45.189393
+1    37.998386
+2   -47.398713
+3   -13.034316
+4    -0.541548
+NATR
+108    5.290979
+109    5.130732
+110    5.141498
+111    4.957472
+112    4.869724
+113    4.754988
+114    4.684818
+115    5.533924
+116    5.348100
+117    5.274359
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737555  601888.XSHG  193.0819          0.4807   24.8127   10.3014   436.2823     195247.5469   4379.4028      195247.5469               4379.4028  2020-09-29       94.6082
+
+
+-----Stock trend report: 浙商银行-----
+{'code': '601916.XSHG', 'display_name': '浙商银行', 'name': 'ZSYX', 'type': 'stock', 'parent': None}
+above5: False
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 0.57%
+ema20 bias: 1.42%
+ema5 > ema20: False
+ema5 angle
+0    0.365867
+1    0.243913
+2    0.544564
+3    1.126850
+4   -0.012612
+ema20 angle
+0    0.110446
+1    0.099927
+2    0.199544
+3    0.398804
+4    0.142559
+NATR
+108    1.697648
+109    1.659428
+110    1.624395
+111    1.599851
+112    1.567073
+113    1.499021
+114    1.459653
+115    1.450077
+116    1.450738
+117    1.444055
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735918  601916.XSHG    7.3739          1.1104    0.8011    1.8331     2.8031      2126869.75     897.539         255000.0                  107.61  2020-09-29        6.9443
+
+
+-----Stock trend report: 中远海控-----
+{'code': '601919.XSHG', 'display_name': '中远海控', 'name': 'ZYHK', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 3.20%
+ema20 bias: 10.46%
+ema5 > ema20: False
+ema5 angle
+0    3.610647
+1   -0.645451
+2    5.284212
+3    4.098780
+4    2.353895
+ema20 angle
+0    1.308413
+1    0.310929
+2    1.917621
+3    1.898645
+4    1.608893
+NATR
+108    4.248464
+109    4.199517
+110    4.325795
+111    4.614423
+112    4.445531
+113    4.291000
+114    4.444801
+115    4.407643
+116    4.261140
+117    4.147263
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737458  601919.XSHG   10.8356          0.5904    1.9563    0.4719     5.3358     1225952.875    722.0863      865730.1875                509.9151  2020-09-29       10.6753
+
+
+-----Stock trend report: 安图生物-----
+{'code': '603658.XSHG', 'display_name': '安图生物', 'name': 'ATSW', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.91%
+ema20 bias: 2.07%
+ema5 > ema20: True
+ema5 angle
+0    37.747352
+1    26.080494
+2   -62.037156
+3    62.900321
+4    70.535276
+ema20 angle
+0    26.766799
+1    24.168219
+2   -12.702953
+3    35.496248
+4    47.241164
+NATR
+108    4.382079
+109    4.277454
+110    4.226609
+111    4.084483
+112    3.991236
+113    3.916842
+114    3.936417
+115    4.256576
+116    4.233397
+117    4.162317
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738759  603658.XSHG   95.4823          0.3014   23.5947   25.6848   717.1297      43060.2891    694.9931       43060.2891                694.9931  2020-09-29       89.7734
+
+
+-----Stock trend report: 欧派家居-----
+{'code': '603833.XSHG', 'display_name': '欧派家居', 'name': 'OPJJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 2.37%
+ema20 bias: 7.05%
+ema5 > ema20: False
+ema5 angle
+0   -47.961119
+1   -14.362974
+2     3.202609
+3    45.208347
+4    68.315336
+ema20 angle
+0   -11.008251
+1    -2.170941
+2     1.744910
+3    16.946225
+4    38.741813
+NATR
+108    3.995135
+109    4.069258
+110    4.161552
+111    4.275890
+112    4.310241
+113    4.261580
+114    4.144531
+115    4.095719
+116    3.998838
+117    4.012343
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738864  603833.XSHG    37.345          0.1432    6.8243    4.8757    19.4902      59565.4492    633.2999       59565.4492                633.2999  2020-09-29       34.4288
+
+
+EMA20 Negative Bias. Threshold: -0.05
+-----Stock trend report: 中兴通讯-----
+{'code': '000063.XSHE', 'display_name': '中兴通讯', 'name': 'ZXTX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.22%
+ema20 bias: -5.63%
+ema5 > ema20: True
+ema5 angle
+0    -6.273444
+1    -0.570347
+2     4.954960
+3    28.860463
+4    33.454821
+ema20 angle
+0   -9.777022
+1   -7.846546
+2   -5.598206
+3    2.992011
+4    7.468847
+NATR
+108    3.005924
+109    2.948201
+110    3.020045
+111    2.896549
+112    2.872839
+113    2.769752
+114    2.665048
+115    2.633677
+116    2.649082
+117    2.687087
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737885  000063.XSHE   27.4332          0.7254    3.6883    1.6268    14.6859        461343.5   1518.2814         347634.0               1144.0635  2020-09-29       29.4934
+
+
+-----Stock trend report: 新希望-----
+{'code': '000876.XSHE', 'display_name': '新希望', 'name': 'XXW', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -4.35%
+ema20 bias: -5.57%
+ema5 > ema20: True
+ema5 angle
+0    -6.156879
+1   -11.415408
+2    -6.349574
+3    17.004390
+4    29.706569
+ema20 angle
+0   -16.542340
+1   -17.007450
+2   -15.113606
+3    -7.732495
+4    -1.036339
+NATR
+108    5.560732
+109    5.213284
+110    5.199429
+111    4.947547
+112    5.121140
+113    4.897034
+114    4.799510
+115    4.730962
+116    4.555825
+117    4.615642
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738187  000876.XSHE   18.1968          0.5868    3.9887     1.322    18.9578     430400.6562   1208.9954      430060.2812               1208.0393  2020-09-29       23.9785
+
+
+-----Stock trend report: 紫光股份-----
+{'code': '000938.XSHE', 'display_name': '紫光股份', 'name': 'ZGGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -3.68%
+ema20 bias: -5.55%
+ema5 > ema20: True
+ema5 angle
+0   -12.220814
+1   -14.272821
+2    -0.931633
+3    18.391526
+4    12.861727
+ema20 angle
+0   -13.566150
+1   -14.022638
+2   -10.323404
+3    -3.816542
+4    -3.345237
+NATR
+108    4.384684
+109    4.313599
+110    4.751930
+111    4.667163
+112    4.487377
+113    4.272449
+114    4.201331
+115    4.058153
+116    3.897401
+117    3.775412
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737037  000938.XSHE   39.2105          0.7826    2.5611    1.2979    20.2708        286008.0    736.7566         286008.0                736.7566  2020-09-29       39.9672
+
+
+-----Stock trend report: 浪潮信息-----
+{'code': '000977.XSHE', 'display_name': '浪潮信息', 'name': 'LCXX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.07%
+ema20 bias: -7.35%
+ema5 > ema20: True
+ema5 angle
+0    -3.892376
+1    -6.580524
+2    12.758142
+3    30.863222
+4    29.324825
+ema20 angle
+0   -8.691534
+1   -8.995904
+2   -3.237626
+3    4.371113
+4    6.606864
+NATR
+108    3.523479
+109    3.353840
+110    3.453408
+111    3.296016
+112    3.358290
+113    3.251107
+114    3.185471
+115    3.106992
+116    3.068617
+117    2.994859
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736835  000977.XSHE   41.9203           1.013    3.8666    0.7365   -76.1956      145372.125    444.8387      145280.8594                444.5594  2020-09-29       47.8966
+
+
+-----Stock trend report: 韵达股份-----
+{'code': '002120.XSHE', 'display_name': '韵达股份', 'name': 'YDGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.17%
+ema20 bias: -8.57%
+ema5 > ema20: True
+ema5 angle
+0    -1.257062
+1    -1.029050
+2     5.598527
+3    10.869426
+4    17.987423
+ema20 angle
+0   -4.187858
+1   -3.844563
+2   -1.682440
+3    0.550894
+4    3.712708
+NATR
+108    3.722684
+109    3.641092
+110    3.587482
+111    3.439127
+112    3.488417
+113    3.335685
+114    3.255432
+115    3.165437
+116    3.058245
+117    3.102060
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738397  002120.XSHE   26.7413          0.3139     3.989    1.6381    68.7498       289924.75     543.319      279649.8125                524.0638  2020-09-29       20.5243
+
+
+-----Stock trend report: 欧菲光-----
+{'code': '002456.XSHE', 'display_name': '欧菲光', 'name': 'OFG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -1.44%
+ema20 bias: -7.17%
+ema5 > ema20: True
+ema5 angle
+0    -0.803236
+1    -3.396324
+2    11.150172
+3    14.827994
+4     6.644415
+ema20 angle
+0   -5.190789
+1   -5.510772
+2   -1.126947
+3    1.162782
+4    0.069974
+NATR
+108    4.645125
+109    4.394114
+110    4.474563
+111    4.315882
+112    4.217600
+113    3.997373
+114    3.884320
+115    3.772911
+116    3.597217
+117    3.528471
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737311  002456.XSHE   39.5979          1.1999    3.9509    0.7567  1426.4426     269473.9375     392.354      266850.0625                388.5337  2020-09-29       76.9545
+
+
+-----Stock trend report: 沪电股份-----
+{'code': '002463.XSHE', 'display_name': '沪电股份', 'name': 'HDGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.95%
+ema20 bias: -7.55%
+ema5 > ema20: True
+ema5 angle
+0    -8.324041
+1   -11.907782
+2     2.257219
+3    12.931560
+4     7.392280
+ema20 angle
+0   -4.810872
+1   -6.193996
+2   -2.677442
+3    0.904317
+4    0.436280
+NATR
+108    3.824119
+109    3.789163
+110    3.876687
+111    3.874618
+112    3.878999
+113    3.756994
+114    3.787451
+115    3.695812
+116    3.552517
+117    3.468558
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736786  002463.XSHE   25.1595          1.1533    6.0713    4.3749  -148.5619     172438.1719    329.8742      170574.1094                326.3083  2020-09-29       27.3532
+
+
+-----Stock trend report: 世纪华通-----
+{'code': '002602.XSHE', 'display_name': '世纪华通', 'name': 'SJHT', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -3.57%
+ema20 bias: -5.78%
+ema5 > ema20: True
+ema5 angle
+0   -6.659616
+1   -8.409627
+2   -1.826699
+3    3.551868
+4    0.652053
+ema20 angle
+0   -4.251468
+1   -4.986923
+2   -3.427965
+3   -1.740481
+4   -2.065415
+NATR
+108    3.560226
+109    3.391586
+110    3.457914
+111    3.422523
+112    3.569281
+113    3.435724
+114    3.478277
+115    3.376481
+116    3.285945
+117    3.180244
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738190  002602.XSHE   26.7606          0.6922    2.4713    4.6713  -203.3195     745255.6875    725.1338      417570.1562                406.2958  2020-09-29       31.7293
+
+
+-----Stock trend report: 深南电路-----
+{'code': '002916.XSHE', 'display_name': '深南电路', 'name': 'SNDL', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.24%
+ema20 bias: -9.39%
+ema5 > ema20: True
+ema5 angle
+0   -27.809496
+1   -29.320050
+2    48.211859
+3    68.858023
+4    60.727015
+ema20 angle
+0   -34.103816
+1   -33.927048
+2   -10.311029
+3    19.855155
+4    18.976113
+NATR
+108    4.244324
+109    4.154226
+110    4.208501
+111    4.070009
+112    4.026700
+113    3.915194
+114    3.810317
+115    3.698796
+116    3.596411
+117    3.435709
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737178  002916.XSHE   38.5754          2.2672   10.6677    4.9214    87.4131      48941.3867    573.2504       15325.5029                179.5076  2020-09-29       46.5008
+
+
+-----Stock trend report: 乐普医疗-----
+{'code': '300003.XSHE', 'display_name': '乐普医疗', 'name': 'LPYL', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.26%
+ema20 bias: -5.88%
+ema5 > ema20: True
+ema5 angle
+0     7.974345
+1     8.720593
+2    10.698565
+3    28.040487
+4    23.512764
+ema20 angle
+0   -6.718939
+1   -5.111247
+2   -3.214642
+3    3.740345
+4    4.688062
+NATR
+108    3.924804
+109    3.820636
+110    3.861070
+111    3.730391
+112    3.608105
+113    3.492072
+114    3.363053
+115    3.231403
+116    3.152316
+117    3.078686
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735756  300003.XSHE   35.3789          1.0642    7.2698    7.4587   101.6124     180458.1094     605.076      153804.8438                515.7076  2020-09-29       35.0706
+
+
+-----Stock trend report: 温氏股份-----
+{'code': '300498.XSHE', 'display_name': '温氏股份', 'name': 'WSGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -3.39%
+ema20 bias: -5.64%
+ema5 > ema20: True
+ema5 angle
+0    -6.385173
+1   -11.563331
+2    -5.506442
+3    10.521713
+4    10.600496
+ema20 angle
+0   -8.475208
+1   -9.757162
+2   -8.202931
+3   -3.376367
+4   -2.020733
+NATR
+108    2.900364
+109    2.783442
+110    2.791905
+111    2.762582
+112    2.819646
+113    2.767226
+114    2.810939
+115    2.721388
+116    2.728117
+117    2.707529
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737145  300498.XSHE    7.5891          0.3849     2.857    1.6145    -114.66      637346.375   1270.2313      483697.9062                964.0099  2020-09-29        9.0944
+
+
+-----Stock trend report: 生益科技-----
+{'code': '600183.XSHG', 'display_name': '生益科技', 'name': 'SYKJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: 1.52%
+ema20 bias: -5.80%
+ema5 > ema20: True
+ema5 angle
+0    -1.968333
+1    -3.219201
+2    19.417679
+3    25.873428
+4    14.931462
+ema20 angle
+0   -3.220202
+1   -3.458056
+2    3.248365
+3    6.999664
+4    5.420849
+NATR
+108    3.811658
+109    3.741822
+110    3.663437
+111    3.746968
+112    3.732765
+113    3.578854
+114    3.459991
+115    3.464769
+116    3.373553
+117    3.259246
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735886  600183.XSHG   32.5096          0.6291    5.9136     3.782  -750.8656     228450.8281    535.0318      228450.8281                535.0318  2020-09-29       36.9301
+
+
+-----Stock trend report: 烽火通信-----
+{'code': '600498.XSHG', 'display_name': '烽火通信', 'name': 'FHTX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.26%
+ema20 bias: -6.53%
+ema5 > ema20: True
+ema5 angle
+0    -1.641960
+1    -2.811550
+2    10.051802
+3    16.778362
+4    12.280047
+ema20 angle
+0   -4.762512
+1   -4.798744
+2   -0.914085
+3    2.173058
+4    2.238740
+NATR
+108    2.557215
+109    2.478819
+110    2.534050
+111    2.513763
+112    2.425917
+113    2.410769
+114    2.343251
+115    2.310031
+116    2.266702
+117    2.200623
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737452  600498.XSHG   45.9919          0.4977    2.6779    1.2619    15.3383     117014.6641      279.08      111375.4922                265.6306  2020-09-29       28.5131
+
+
+-----Stock trend report: 红塔证券-----
+{'code': '601236.XSHG', 'display_name': '红塔证券', 'name': 'HTZQ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.56%
+ema20 bias: -5.15%
+ema5 > ema20: True
+ema5 angle
+0     0.871649
+1    -4.186029
+2     3.121795
+3    12.754489
+4     4.815209
+ema20 angle
+0   -2.568068
+1   -3.684144
+2   -1.645836
+3    1.620404
+4    0.375120
+NATR
+108    3.931847
+109    3.858554
+110    3.788580
+111    3.638417
+112    3.458030
+113    3.288081
+114    3.274597
+115    3.128268
+116    3.071821
+117    3.040622
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737096  601236.XSHG   50.8161          0.5166    4.8842    17.874  -693.7455     363340.5312    673.6334      147492.0156                273.4502  2020-09-29       80.4299
+
+
+-----Stock trend report: 永辉超市-----
+{'code': '601933.XSHG', 'display_name': '永辉超市', 'name': 'YHCS', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -2.17%
+ema20 bias: -5.54%
+ema5 > ema20: True
+ema5 angle
+0   -3.034148
+1   -2.976904
+2   -1.222263
+3    4.712955
+4    2.955466
+ema20 angle
+0   -2.693900
+1   -2.709949
+2   -2.234287
+3   -0.440063
+4   -0.452718
+NATR
+108    2.538925
+109    2.476538
+110    2.566031
+111    2.480455
+112    2.549467
+113    2.539588
+114    2.510084
+115    2.473239
+116    2.477565
+117    2.364769
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735124  601933.XSHG   36.6164          0.4973    3.6116    0.7959    16.4735     951628.5625    749.8833       946825.125                746.0982  2020-09-29       47.9549
+
+
+-----Stock trend report: 汇顶科技-----
+{'code': '603160.XSHG', 'display_name': '汇顶科技', 'name': 'HDKJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.20%
+ema20 bias: -9.56%
+ema5 > ema20: True
+ema5 angle
+0   -34.057857
+1   -58.323829
+2    44.891711
+3    71.870199
+4    69.556939
+ema20 angle
+0   -37.297380
+1   -45.664329
+2   -18.400180
+3    20.900758
+4    27.935666
+NATR
+108    3.706988
+109    3.554112
+110    3.474582
+111    3.328588
+112    3.386200
+113    3.250842
+114    3.312607
+115    3.290345
+116    3.255059
+117    3.171472
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737556  603160.XSHG   38.7141          0.4413   10.7181   11.0608     52.233      45692.2461    734.7313       45253.7031                727.6795  2020-09-29       31.7056
+
+
+-----Stock trend report: 兆易创新-----
+{'code': '603986.XSHG', 'display_name': '兆易创新', 'name': 'ZYCX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.53%
+ema20 bias: -7.17%
+ema5 > ema20: True
+ema5 angle
+0   -50.246317
+1   -49.755393
+2    55.389376
+3    74.123369
+4    61.485530
+ema20 angle
+0   -45.101744
+1   -45.470275
+2   -15.679036
+3    25.389465
+4    15.939321
+NATR
+108    4.347431
+109    4.145531
+110    4.028370
+111    3.980925
+112    3.997429
+113    3.841027
+114    3.691247
+115    3.572975
+116    3.478043
+117    3.404485
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738493  603986.XSHG  104.9901          1.0555    8.0891   22.4594      35.61       47157.082    821.7121       41789.0312                728.1739  2020-09-29      135.3901
+
+
+EMA5 Cross EMA20 -----------------------------------------------
+-----Stock trend report: 格力电器-----
+{'code': '000651.XSHE', 'display_name': '格力电器', 'name': 'GLDQ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.39%
+ema20 bias: -1.07%
+ema5 > ema20: True
+ema5 angle
+0   -21.072663
+1   -10.030734
+2    20.072912
+3    30.975281
+4    23.276525
+ema20 angle
+0   -9.966350
+1   -7.751968
+2    0.855395
+3    6.583557
+4    6.446668
+NATR
+108    1.917510
+109    1.862578
+110    1.949846
+111    1.893176
+112    1.989434
+113    1.925364
+114    1.832052
+115    1.904017
+116    1.881282
+117    1.813081
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736770  000651.XSHE   18.4414          0.4916    2.8095    1.8475   -21.8459     601573.0625   3191.9468         597013.0                3167.751  2020-09-29       12.9246
+
+
+-----Stock trend report: 科大讯飞-----
+{'code': '002230.XSHE', 'display_name': '科大讯飞', 'name': 'KDXF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.59%
+ema20 bias: -1.34%
+ema5 > ema20: True
+ema5 angle
+0    -1.229829
+1    -5.008893
+2    20.047139
+3    23.425524
+4    25.275647
+ema20 angle
+0   -5.404305
+1   -6.081697
+2    1.406515
+3    4.374631
+4    6.932874
+NATR
+108    2.740140
+109    2.628676
+110    2.616728
+111    2.520074
+112    2.529701
+113    2.466082
+114    2.442196
+115    2.482159
+116    2.412879
+117    2.419293
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736306  002230.XSHE   85.3739          0.5687    6.4679     7.432    68.7018     219787.2969    758.0464      202449.0156                698.2467  2020-09-29       92.5377
+
+
+-----Stock trend report: 洋河股份-----
+{'code': '002304.XSHE', 'display_name': '洋河股份', 'name': 'YHGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 3.17%
+ema20 bias: 2.89%
+ema5 > ema20: True
+ema5 angle
+0   -35.590038
+1   -29.702352
+2     0.173951
+3    76.623771
+4    81.816155
+ema20 angle
+0   -32.921147
+1   -31.485684
+2   -23.970147
+3    38.613925
+4    62.344596
+NATR
+108    3.795600
+109    3.782048
+110    3.901040
+111    3.749171
+112    3.597393
+113    3.507776
+114    3.422244
+115    3.319839
+116    3.451705
+117    3.596945
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736638  002304.XSHE   26.2123          0.2598    5.1379    9.1835    72.2713     150698.7969    1887.804      124893.9609               1564.5466  2020-09-29       25.5702
+
+
+-----Stock trend report: 康弘药业-----
+{'code': '002773.XSHE', 'display_name': '康弘药业', 'name': 'KHYY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.10%
+ema20 bias: 1.37%
+ema5 > ema20: False
+ema5 angle
+0    -1.261297
+1     5.634274
+2    20.090959
+3    25.509485
+4    15.896210
+ema20 angle
+0   -6.804154
+1   -4.321741
+2    0.993377
+3    4.707945
+4    3.718280
+NATR
+108    4.156802
+109    3.969417
+110    4.115541
+111    4.024492
+112    4.080896
+113    3.957388
+114    3.858865
+115    3.689039
+116    3.509455
+117    3.381007
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738630  002773.XSHE   55.5968          0.4408    8.4076   12.6473  -148.5627      87559.7656    396.1204       61995.5898                280.4681  2020-09-29       55.1554
+
+
+-----Stock trend report: 包钢股份-----
+{'code': '600010.XSHG', 'display_name': '包钢股份', 'name': 'BGGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.01%
+ema20 bias: 0.33%
+ema5 > ema20: False
+ema5 angle
+0   -0.112655
+1   -0.075103
+2    0.140916
+3    0.475904
+4    0.317274
+ema20 angle
+0   -0.113093
+1   -0.102322
+2   -0.038010
+3    0.074744
+4    0.067626
+NATR
+108    2.811551
+109    2.694808
+110    2.648305
+111    2.583364
+112    2.523062
+113    2.467067
+114    2.415071
+115    2.346386
+116    2.323457
+117    2.278561
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58734954  600010.XSHG -181.1278          0.2806    0.9951    0.8588  -103.4948       4558503.5    524.2279       3167721.25                364.2879  2020-09-29       78.4854
+
+
+-----Stock trend report: 恒力石化-----
+{'code': '600346.XSHG', 'display_name': '恒力石化', 'name': 'HLSH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 1.87%
+ema20 bias: 5.42%
+ema5 > ema20: False
+ema5 angle
+0     0.082906
+1    -7.540314
+2     4.863432
+3    19.292980
+4    27.775962
+ema20 angle
+0   -1.952209
+1   -3.943421
+2   -0.735963
+3    4.128851
+4    8.481528
+NATR
+108    3.970881
+109    4.175579
+110    4.249683
+111    4.191005
+112    4.161000
+113    3.960878
+114    3.976590
+115    3.816530
+116    3.770585
+117    3.778418
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738460  600346.XSHG   11.5841          0.3569    3.4082    1.0608    28.0776        703910.0   1334.6133      463193.5625                 878.215  2020-09-29       13.3126
+
+
+-----Stock trend report: 浙江龙盛-----
+{'code': '600352.XSHG', 'display_name': '浙江龙盛', 'name': 'ZJLS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.62%
+ema20 bias: -0.32%
+ema5 > ema20: True
+ema5 angle
+0     0.084044
+1     0.437992
+2     5.053492
+3     9.217945
+4    11.393859
+ema20 angle
+0   -1.947290
+1   -1.652919
+2   -0.131731
+3    1.572006
+4    2.947928
+NATR
+108    2.857832
+109    2.801230
+110    2.814296
+111    2.692123
+112    2.631267
+113    2.553306
+114    2.488325
+115    2.449486
+116    2.406418
+117    2.354523
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735484  600352.XSHG    9.2735           0.501    1.6614    2.2862    11.9685     325333.1875    441.4771      325333.1875                441.4771  2020-09-29        8.7892
+
+
+-----Stock trend report: 海澜之家-----
+{'code': '600398.XSHG', 'display_name': '海澜之家', 'name': 'HLZJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 2.29%
+ema20 bias: 1.72%
+ema5 > ema20: True
+ema5 angle
+0     0.847800
+1    -2.298307
+2     6.083428
+3     6.148063
+4    13.593824
+ema20 angle
+0   -1.010855
+1   -1.732659
+2    0.614546
+3    1.156122
+4    3.823403
+NATR
+108    3.469349
+109    3.433359
+110    3.580955
+111    3.524949
+112    3.388592
+113    3.290221
+114    3.438328
+115    3.452598
+116    3.492788
+117    3.675252
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737128  600398.XSHG   13.5582          0.1506    2.2089    1.4242    29.8315     431958.9062    275.5898      431958.9062                275.5898  2020-09-29         8.584
+
+
+-----Stock trend report: 国电南瑞-----
+{'code': '600406.XSHG', 'display_name': '国电南瑞', 'name': 'GDNR', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.06%
+ema20 bias: -1.87%
+ema5 > ema20: True
+ema5 angle
+0    -2.969786
+1    -0.071777
+2     7.171903
+3    19.318291
+4    12.062798
+ema20 angle
+0   -4.573383
+1   -3.596230
+2   -1.184286
+3    3.290111
+4    2.650747
+NATR
+108    3.078367
+109    2.957280
+110    3.095072
+111    2.969572
+112    2.848311
+113    2.835648
+114    2.732035
+115    2.652397
+116    2.642076
+117    2.576954
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735624  600406.XSHG     20.07          0.4279    2.9622    2.6954    62.8793     462194.0938    906.8248       293489.875                575.8272  2020-09-29       20.8798
+
+
+-----Stock trend report: 中天科技-----
+{'code': '600522.XSHG', 'display_name': '中天科技', 'name': 'ZTKJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: 0.50%
+ema20 bias: -2.66%
+ema5 > ema20: True
+ema5 angle
+0    0.483446
+1    0.513277
+2    7.555540
+3    8.815900
+4    6.280783
+ema20 angle
+0   -1.764383
+1   -1.541911
+2    0.678125
+3    1.704413
+4    1.651221
+NATR
+108    3.047857
+109    2.938551
+110    2.927879
+111    2.959700
+112    2.987482
+113    2.934507
+114    2.838167
+115    2.832622
+116    2.763559
+117    2.684016
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738708  600522.XSHG   16.3485          0.7855    1.4992    0.7813    49.9599     306613.5938    321.0244      306613.5938                321.0244  2020-09-29       16.3013
+
+
+-----Stock trend report: 恒生电子-----
+{'code': '600570.XSHG', 'display_name': '恒生电子', 'name': 'HSDZ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 1.06%
+ema20 bias: 0.16%
+ema5 > ema20: True
+ema5 angle
+0    11.694807
+1    10.831510
+2    31.280859
+3    55.864576
+4    56.945837
+ema20 angle
+0   -10.323969
+1    -8.507010
+2     0.103808
+3    17.084956
+4    23.565668
+NATR
+108    3.924598
+109    3.820163
+110    3.823920
+111    3.664741
+112    3.619832
+113    3.516568
+114    3.372383
+115    3.305638
+116    3.207241
+117    3.106702
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738865  600570.XSHG   95.0507          0.6716   23.1121   25.9039   301.6562     104409.0781   1027.6985      104409.0781               1027.6985  2020-09-29       72.5853
+
+
+-----Stock trend report: 通化东宝-----
+{'code': '600867.XSHG', 'display_name': '通化东宝', 'name': 'THDB', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.23%
+ema20 bias: -1.04%
+ema5 > ema20: True
+ema5 angle
+0    -5.155965
+1    -0.772775
+2    10.444688
+3     8.879375
+4     7.077133
+ema20 angle
+0   -3.400620
+1   -2.315167
+2    1.068963
+3    1.512591
+4    1.695761
+NATR
+108    3.580152
+109    3.522302
+110    3.550706
+111    3.421505
+112    3.512218
+113    3.388493
+114    3.439482
+115    3.385420
+116    3.276559
+117    3.169171
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736921  600867.XSHG   33.3948          0.4404    5.4027    9.7249   218.2614     203398.8594    273.9783      203398.8594                273.9783  2020-09-29       33.7742
+
+
+-----Stock trend report: 工业富联-----
+{'code': '601138.XSHG', 'display_name': '工业富联', 'name': 'GYFL', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: 0.06%
+ema20 bias: -2.43%
+ema5 > ema20: True
+ema5 angle
+0    3.917090
+1    3.185141
+2    7.055361
+3    7.923349
+4    3.592579
+ema20 angle
+0   -1.232464
+1   -0.951470
+2    0.557799
+3    1.432037
+4    0.804764
+NATR
+108    2.556658
+109    2.498619
+110    2.574136
+111    2.531324
+112    2.443998
+113    2.438536
+114    2.380244
+115    2.328611
+116    2.232863
+117    2.209833
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737746  601138.XSHG   14.8309          1.8275    2.9577    0.6496    25.2129      1987210.25    2694.657      187011.3594                253.5874  2020-09-29       14.4826
+
+
+-----Stock trend report: 长沙银行-----
+{'code': '601577.XSHG', 'display_name': '长沙银行', 'name': 'CSYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.30%
+ema20 bias: 1.81%
+ema5 > ema20: False
+ema5 angle
+0   -0.251239
+1   -1.313177
+2    1.415933
+3    4.563199
+4    2.474086
+ema20 angle
+0   -0.573514
+1   -0.846253
+2   -0.110906
+3    0.936352
+4    0.683516
+NATR
+108    2.631590
+109    2.546773
+110    2.558457
+111    2.456511
+112    2.375302
+113    2.319435
+114    2.306086
+115    2.240459
+116    2.264013
+117    2.179872
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736234  601577.XSHG    5.7534          0.7895     0.861    1.7178    26.5477      342155.375     303.834       99533.2734                 88.3855  2020-09-29        5.9807
+
+
+-----Stock trend report: 上海医药-----
+{'code': '601607.XSHG', 'display_name': '上海医药', 'name': 'SHYY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.22%
+ema20 bias: 0.59%
+ema5 > ema20: False
+ema5 angle
+0    -0.877064
+1    -4.205908
+2     5.387456
+3    12.746039
+4    10.986514
+ema20 angle
+0   -2.476910
+1   -3.275616
+2   -0.620468
+3    2.111443
+4    2.618768
+NATR
+108    3.206222
+109    3.177123
+110    3.195811
+111    3.172215
+112    3.137892
+113    3.049872
+114    3.062499
+115    2.960434
+116    2.853752
+117    2.780923
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737663  601607.XSHG   13.7494          0.4734    1.3575    0.3216     7.6971     284208.9375    582.6283         192293.5                394.2017  2020-09-29       14.2766
+
+
+-----Stock trend report: 中信银行-----
+{'code': '601998.XSHG', 'display_name': '中信银行', 'name': 'ZXYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.00%
+ema20 bias: -0.34%
+ema5 > ema20: True
+ema5 angle
+0   -0.557352
+1   -0.180594
+2    0.261573
+3    2.083319
+4    1.007417
+ema20 angle
+0   -0.449191
+1   -0.351847
+2   -0.209206
+3    0.356385
+4    0.213313
+NATR
+108    1.456410
+109    1.411055
+110    1.436393
+111    1.410099
+112    1.358080
+113    1.322768
+114    1.310718
+115    1.282736
+116    1.333865
+117    1.326617
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738795  601998.XSHG    5.4505          0.0238    0.5447    1.2555     7.3798       4893483.5   2466.3157       3190520.25               1608.0221  2020-09-29        5.1366
+
+
+-----Stock trend report: 今世缘-----
+{'code': '603369.XSHG', 'display_name': '今世缘', 'name': 'JSY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.28%
+ema20 bias: 2.14%
+ema5 > ema20: False
+ema5 angle
+0     7.415478
+1     4.199961
+2     7.535879
+3    48.278357
+4    45.219193
+ema20 angle
+0   -11.147273
+1   -10.320037
+2    -8.022456
+3     9.521020
+4    12.736651
+NATR
+108    4.884905
+109    4.825348
+110    4.916302
+111    4.708665
+112    4.646689
+113    4.451528
+114    4.365624
+115    4.342916
+116    4.234539
+117    4.463279
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737618  603369.XSHG    39.689          0.5609    7.2328   11.7898  -161.1228        125450.0    557.7507         125450.0                557.7507  2020-09-29       38.2519
+
+
+Near EMA20 -----------------------------------------------
+-----Stock trend report: 徐工机械-----
+{'code': '000425.XSHE', 'display_name': '徐工机械', 'name': 'XGJX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -1.35%
+ema20 bias: -2.83%
+ema5 > ema20: True
+ema5 angle
+0   -2.875950
+1   -3.823082
+2    2.411686
+3    3.894558
+4    2.407974
+ema20 angle
+0   -1.891941
+1   -2.256883
+2   -0.624225
+3    0.090010
+4    0.026871
+NATR
+108    2.922692
+109    3.129710
+110    3.403176
+111    3.423080
+112    3.457260
+113    3.280484
+114    3.306970
+115    3.277574
+116    3.162553
+117    3.050208
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738078  000425.XSHE   13.0215          0.6193    1.4706    0.7016    18.4954     783366.8125    442.6023        699503.75                395.2196  2020-09-29       12.2246
+
+
+-----Stock trend report: 顺鑫农业-----
+{'code': '000860.XSHE', 'display_name': '顺鑫农业', 'name': 'SXNY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -2.53%
+ema20 bias: -0.58%
+ema5 > ema20: False
+ema5 angle
+0   -19.684887
+1   -11.960509
+2   -14.639880
+3    32.450178
+4    41.793439
+ema20 angle
+0   -24.280816
+1   -21.827683
+2   -21.636829
+3    -7.264066
+4     1.086165
+NATR
+108    4.548743
+109    4.389176
+110    4.453927
+111    4.399109
+112    4.252163
+113    4.059817
+114    3.902545
+115    3.841498
+116    3.855950
+117    3.799750
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737674  000860.XSHE   62.7962          0.8447    5.6627    2.7846    86.2755      74176.6953    445.6536       74176.6953                445.6536  2020-09-29       55.0714
+
+
+-----Stock trend report: 招商蛇口-----
+{'code': '001979.XSHE', 'display_name': '招商蛇口', 'name': 'ZSSK', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -1.28%
+ema20 bias: -2.93%
+ema5 > ema20: True
+ema5 angle
+0   -5.108001
+1   -4.550704
+2   -2.465719
+3    9.348479
+4    5.696420
+ema20 angle
+0   -3.882153
+1   -3.839456
+2   -3.311608
+3    0.165344
+4   -0.014104
+NATR
+108    2.206779
+109    2.049152
+110    2.130949
+111    2.187928
+112    2.189589
+113    2.168658
+114    2.158457
+115    2.075607
+116    2.296049
+117    2.249635
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738100  001979.XSHE   10.0013          0.1048    1.7158    1.1443   -49.4083       792231.75   1204.9845       792188.125               1204.9181  2020-09-29        7.5156
+
+
+-----Stock trend report: 欧菲光-----
+{'code': '002456.XSHE', 'display_name': '欧菲光', 'name': 'OFG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -1.44%
+ema20 bias: -7.17%
+ema5 > ema20: True
+ema5 angle
+0    -0.803236
+1    -3.396324
+2    11.150172
+3    14.827994
+4     6.644415
+ema20 angle
+0   -5.190789
+1   -5.510772
+2   -1.126947
+3    1.162782
+4    0.069974
+NATR
+108    4.645125
+109    4.394114
+110    4.474563
+111    4.315882
+112    4.217600
+113    3.997373
+114    3.884320
+115    3.772911
+116    3.597217
+117    3.528471
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737311  002456.XSHE   39.5979          1.1999    3.9509    0.7567  1426.4426     269473.9375     392.354      266850.0625                388.5337  2020-09-29       76.9545
+
+
+-----Stock trend report: 申通快递-----
+{'code': '002468.XSHE', 'display_name': '申通快递', 'name': 'STKD', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -1.24%
+ema20 bias: -2.97%
+ema5 > ema20: True
+ema5 angle
+0   -6.865059
+1   -7.421727
+2   -0.010055
+3    5.136103
+4    5.327716
+ema20 angle
+0   -3.707490
+1   -4.170215
+2   -2.359644
+3   -0.662778
+4   -0.054010
+NATR
+108    3.667240
+109    3.756620
+110    3.798992
+111    3.898720
+112    3.953008
+113    3.780090
+114    3.677736
+115    3.510881
+116    3.341041
+117    3.269168
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736102  002468.XSHE    36.038          0.4784    2.5736    1.0366  7741.1436     153080.2188    232.9881      149204.5625                227.0893  2020-09-29       16.5438
+
+
+-----Stock trend report: 视源股份-----
+{'code': '002841.XSHE', 'display_name': '视源股份', 'name': 'SYGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -0.23%
+ema20 bias: 0.23%
+ema5 > ema20: False
+ema5 angle
+0    25.001973
+1    24.270583
+2    24.888116
+3     0.532212
+4     3.216218
+ema20 angle
+0   -1.402788
+1    1.022274
+2    3.594088
+3   -1.654529
+4   -0.678830
+NATR
+108    2.834715
+109    2.812143
+110    2.921008
+111    2.825392
+112    2.854019
+113    2.799453
+114    2.806800
+115    2.746487
+116    2.751439
+117    2.633310
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738855  002841.XSHE   40.8224          0.2215    13.325    4.0272    58.9535      66820.7891    648.0948       40032.3008                388.2733  2020-09-29       40.2316
+
+
+-----Stock trend report: 青农商行-----
+{'code': '002958.XSHE', 'display_name': '青农商行', 'name': 'QNSX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.85%
+ema20 bias: -0.45%
+ema5 > ema20: False
+ema5 angle
+0   -1.509613
+1   -2.913982
+2   -0.225461
+3    2.902973
+4    1.363759
+ema20 angle
+0   -0.904777
+1   -1.364091
+2   -0.743264
+3    0.200561
+4    0.017759
+NATR
+108    3.437779
+109    3.350853
+110    3.303831
+111    3.164555
+112    2.999581
+113    2.913004
+114    2.971716
+115    2.850453
+116    2.891317
+117    2.808980
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735242  002958.XSHE    9.8515          0.8519    1.1383    3.0067     3.5927     555555.5625       285.0      269218.9688                138.1093  2020-09-29       10.0892
+
+
+-----Stock trend report: 中国广核-----
+{'code': '003816.XSHE', 'display_name': '中国广核', 'name': 'ZGGH', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.65%
+ema20 bias: -1.23%
+ema5 > ema20: True
+ema5 angle
+0   -0.438098
+1    0.089900
+2    0.441895
+3    1.058424
+4    0.514697
+ema20 angle
+0   -0.476871
+1   -0.322327
+2   -0.182497
+3    0.053152
+4   -0.006477
+NATR
+108    1.472832
+109    1.416721
+110    1.463401
+111    1.433797
+112    1.416212
+113    1.385628
+114    1.352352
+115    1.321212
+116    1.331983
+117    1.314463
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736430  003816.XSHE   14.9167          0.1561    1.5776    2.1853    83.6795       5049861.0   1439.2104      975435.5625                277.9991  2020-09-29       15.2045
+
+
+-----Stock trend report: 华夏银行-----
+{'code': '600015.XSHG', 'display_name': '华夏银行', 'name': 'HXYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.51%
+ema20 bias: -0.97%
+ema5 > ema20: True
+ema5 angle
+0   -1.088921
+1   -0.916942
+2   -0.038391
+3    1.501946
+4    0.619532
+ema20 angle
+0   -0.656668
+1   -0.648694
+2   -0.423229
+3    0.053610
+4   -0.060630
+NATR
+108    1.319263
+109    1.302058
+110    1.305431
+111    1.258418
+112    1.228308
+113    1.227578
+114    1.211667
+115    1.166022
+116    1.194769
+117    1.158931
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735745  600015.XSHG    4.5644          0.0978    0.4499    1.0212    -0.9008     1538722.375    944.7756      1282268.625                 787.313  2020-09-29        4.3131
+
+
+-----Stock trend report: 上港集团-----
+{'code': '600018.XSHG', 'display_name': '上港集团', 'name': 'SGJT', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.74%
+ema20 bias: -0.61%
+ema5 > ema20: False
+ema5 angle
+0   -1.090172
+1   -0.917776
+2    0.152039
+3    2.010389
+4    1.149670
+ema20 angle
+0   -0.785893
+1   -0.765612
+2   -0.474458
+3    0.116391
+4    0.050739
+NATR
+108    1.793862
+109    1.752057
+110    1.787782
+111    1.853867
+112    1.815125
+113    1.766688
+114    1.712773
+115    1.676914
+116    1.702968
+117    1.667860
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738263  600018.XSHG    11.386          0.0427     1.176    3.1381     27.995       2317367.5     970.977        2317367.5                 970.977  2020-09-29       10.7145
+
+
+-----Stock trend report: 中国石化-----
+{'code': '600028.XSHG', 'display_name': '中国石化', 'name': 'ZGSH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.12%
+ema20 bias: -1.29%
+ema5 > ema20: True
+ema5 angle
+0   -0.259239
+1    0.209143
+2    0.521386
+3    0.920477
+4    0.231732
+ema20 angle
+0   -0.282150
+1   -0.146146
+2   -0.023093
+3    0.142808
+4    0.020073
+NATR
+108    0.904608
+109    0.878579
+110    0.895564
+111    0.868319
+112    0.861383
+113    0.836580
+114    0.864191
+115    0.871080
+116    0.892920
+117    0.887736
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737589  600028.XSHG  139.7114          0.0431    0.6802    0.1883   -74.3319      12107121.0   4709.6699        9555777.0               3717.1973  2020-09-29        8.1778
+
+
+-----Stock trend report: 葛洲坝-----
+{'code': '600068.XSHG', 'display_name': '葛洲坝', 'name': 'GZB', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.21%
+ema20 bias: -2.33%
+ema5 > ema20: True
+ema5 angle
+0   -0.033235
+1   -0.786049
+2    1.957983
+3    2.831407
+4    0.743188
+ema20 angle
+0   -0.607269
+1   -0.767678
+2    0.014768
+3    0.449890
+4    0.079648
+NATR
+108    1.961836
+109    1.872445
+110    1.861559
+111    1.782713
+112    1.721508
+113    1.646321
+114    1.611171
+115    1.617024
+116    1.586519
+117    1.581542
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737158  600068.XSHG    6.1507          0.2127    0.8671    0.2657    -8.2584       460477.75    275.3657        460477.75                275.3657  2020-09-29        5.0602
+
+
+-----Stock trend report: 上海建工-----
+{'code': '600170.XSHG', 'display_name': '上海建工', 'name': 'SHJG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.32%
+ema20 bias: -0.03%
+ema5 > ema20: False
+ema5 angle
+0   -0.095752
+1   -0.445797
+2    0.084767
+3    0.629443
+4    0.419638
+ema20 angle
+0   -0.191583
+1   -0.282470
+2   -0.146435
+3    0.031213
+4    0.028240
+NATR
+108    1.685965
+109    1.616181
+110    1.584388
+111    1.545326
+112    1.494620
+113    1.433796
+114    1.432464
+115    1.390493
+116    1.369828
+117    1.317479
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736830  600170.XSHG    8.6102          0.1408     1.042    0.1343     3.0582       890439.75    276.9268        890439.75                276.9268  2020-09-29        7.0461
+
+
+-----Stock trend report: 新湖中宝-----
+{'code': '600208.XSHG', 'display_name': '新湖中宝', 'name': 'XHZB', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -0.83%
+ema20 bias: 1.87%
+ema5 > ema20: False
+ema5 angle
+0   -1.613953
+1   -1.457910
+2    0.364744
+3    1.961269
+4    0.544065
+ema20 angle
+0   -0.775108
+1   -0.810411
+2   -0.351303
+3    0.173256
+4   -0.061513
+NATR
+108    3.437492
+109    3.273885
+110    3.353174
+111    3.407993
+112    3.340581
+113    3.345663
+114    3.273492
+115    3.185459
+116    3.084859
+117    2.999676
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735067  600208.XSHG   10.5679          0.5193    0.7922    2.3759   -16.3126      859934.375    291.5177      859817.1875                 291.478  2020-09-29       13.5375
+
+
+-----Stock trend report: 安迪苏-----
+{'code': '600299.XSHG', 'display_name': '安迪苏', 'name': 'ADS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -1.57%
+ema20 bias: -1.71%
+ema5 > ema20: True
+ema5 angle
+0    1.364687
+1   -4.808281
+2    3.086465
+3    7.366371
+4    6.061352
+ema20 angle
+0   -2.926291
+1   -4.278947
+2   -2.077011
+3   -0.352136
+4    0.008801
+NATR
+108    3.446439
+109    3.394120
+110    3.435598
+111    3.314391
+112    3.284338
+113    3.193677
+114    3.258964
+115    3.249840
+116    3.141404
+117    3.074063
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738907  600299.XSHG   35.3649          0.1388     2.642    3.1144    85.1096      268190.125    350.5245       268190.125                350.5245  2020-09-29       35.3215
+
+
+-----Stock trend report: 五矿资本-----
+{'code': '600390.XSHG', 'display_name': '五矿资本', 'name': 'WKZB', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.70%
+ema20 bias: -1.49%
+ema5 > ema20: True
+ema5 angle
+0   -0.273557
+1   -1.518915
+2    1.278766
+3    4.851718
+4    2.095384
+ema20 angle
+0   -1.243173
+1   -1.506576
+2   -0.708563
+3    0.504786
+4    0.129319
+NATR
+108    2.796673
+109    2.762811
+110    2.758105
+111    2.730690
+112    2.652788
+113    2.575320
+114    2.575393
+115    2.519518
+116    2.513299
+117    2.468713
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738628  600390.XSHG   10.8102          0.1883     0.897    2.1234    45.5185     449806.5312    323.4109      449806.5312                323.4109  2020-09-29       11.8247
+
+
+-----Stock trend report: 亨通光电-----
+{'code': '600487.XSHG', 'display_name': '亨通光电', 'name': 'HTGD', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -1.43%
+ema20 bias: -4.50%
+ema5 > ema20: True
+ema5 angle
+0   -5.422346
+1   -5.139781
+2    2.483253
+3    9.029471
+4    5.101530
+ema20 angle
+0   -4.384197
+1   -4.402269
+2   -2.298043
+3    0.047827
+4   -0.229563
+NATR
+108    2.461500
+109    2.377365
+110    2.407553
+111    2.421872
+112    2.383616
+113    2.331238
+114    2.275799
+115    2.253037
+116    2.236555
+117    2.183227
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738914  600487.XSHG   26.3455          0.3858    1.9465    0.8899    73.6189     195276.3125    283.1506      190512.1875                276.2427  2020-09-29       20.7875
+
+
+-----Stock trend report: 东方明珠-----
+{'code': '600637.XSHG', 'display_name': '东方明珠', 'name': 'DFMZ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.70%
+ema20 bias: -0.00%
+ema5 > ema20: False
+ema5 angle
+0   -0.985258
+1   -2.755617
+2    1.407974
+3    4.368095
+4    2.152763
+ema20 angle
+0   -1.425419
+1   -1.889485
+2   -0.782462
+3    0.274223
+4    0.029839
+NATR
+108    2.402181
+109    2.293291
+110    2.326775
+111    2.257632
+112    2.195707
+113    2.105516
+114    2.139487
+115    2.111787
+116    2.075191
+117    2.020386
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738686  600637.XSHG    16.859          0.1874    1.1544    2.6686   -66.8064     341450.0312     334.621      341450.0312                 334.621  2020-09-29       16.3784
+
+
+-----Stock trend report: 中航资本-----
+{'code': '600705.XSHG', 'display_name': '中航资本', 'name': 'ZHZB', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -1.52%
+ema20 bias: -1.57%
+ema5 > ema20: True
+ema5 angle
+0   -1.354477
+1   -1.094006
+2    0.607450
+3    3.646802
+4    1.670075
+ema20 angle
+0   -1.435501
+1   -1.353374
+2   -0.842677
+3    0.165166
+4   -0.068833
+NATR
+108    3.452588
+109    3.404800
+110    3.401031
+111    3.357366
+112    3.459114
+113    3.337872
+114    3.301762
+115    3.193971
+116    3.134626
+117    3.060584
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738033  600705.XSHG   12.6609          0.3074    1.2414     2.164    -1.7748     891997.4375    392.4789      888704.3125                391.0299  2020-09-29       12.8113
+
+
+-----Stock trend report: 国投电力-----
+{'code': '600886.XSHG', 'display_name': '国投电力', 'name': 'GTDL', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -0.73%
+ema20 bias: 3.24%
+ema5 > ema20: False
+ema5 angle
+0   -1.377698
+1   -0.918564
+2   -2.139317
+3   -0.280960
+4    1.340331
+ema20 angle
+0   -0.740513
+1   -0.669995
+2   -1.042636
+3   -0.616014
+4   -0.120829
+NATR
+108    2.555061
+109    2.452515
+110    2.538537
+111    2.537698
+112    2.454102
+113    2.378888
+114    2.288157
+115    2.279556
+116    2.301032
+117    2.227979
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736512  600886.XSHG   11.0185           0.144    1.6252    1.5191    32.2558     678602.3125    612.0993      678602.3125                612.0993  2020-09-29       12.8715
+
+
+-----Stock trend report: 宝丰能源-----
+{'code': '600989.XSHG', 'display_name': '宝丰能源', 'name': 'BFNY', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -2.03%
+ema20 bias: 0.18%
+ema5 > ema20: False
+ema5 angle
+0    1.178202
+1   -7.197708
+2   -4.622831
+3    7.374613
+4    5.877958
+ema20 angle
+0   -2.115718
+1   -4.199382
+2   -3.746344
+3   -0.393181
+4   -0.082904
+NATR
+108    4.328143
+109    4.205436
+110    4.105948
+111    4.024211
+112    3.905723
+113    3.730525
+114    3.928825
+115    3.903472
+116    3.870870
+117    3.709906
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737407  600989.XSHG   19.4459          1.6329    3.3349    5.3456   -22.3829        733336.0    778.8028          73336.0                 77.8828  2020-09-29       20.4847
+
+
+-----Stock trend report: 春秋航空-----
+{'code': '601021.XSHG', 'display_name': '春秋航空', 'name': 'CQHK', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -1.30%
+ema20 bias: 4.77%
+ema5 > ema20: False
+ema5 angle
+0   -12.149308
+1    -8.354426
+2   -17.461965
+3    -4.557586
+4    16.709253
+ema20 angle
+0   -7.032676
+1   -6.422577
+2   -9.299702
+3   -6.334630
+4    0.029333
+NATR
+108    3.526236
+109    3.527332
+110    3.698150
+111    3.604131
+112    3.530156
+113    3.500588
+114    3.443332
+115    3.490657
+116    3.422215
+117    3.375591
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737133  601021.XSHG   71.3275          0.4182    2.8897    3.5257    16.3179      91646.2734    412.4999       91646.2734                412.4999  2020-09-29       22.4062
+
+
+-----Stock trend report: 中信建投-----
+{'code': '601066.XSHG', 'display_name': '中信建投', 'name': 'ZXJT', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.25%
+ema20 bias: 3.48%
+ema5 > ema20: False
+ema5 angle
+0    -8.058303
+1    -9.706632
+2    -3.092969
+3    29.131290
+4     5.419604
+ema20 angle
+0   -5.598438
+1   -6.310838
+2   -4.739954
+3    5.398602
+4    0.369867
+NATR
+108    4.495334
+109    4.392992
+110    4.299471
+111    4.118043
+112    3.927675
+113    3.767857
+114    3.639611
+115    3.601758
+116    3.487478
+117    3.456556
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735552  601066.XSHG   49.3768          1.4601    7.7904   21.6372    29.4353        764638.5   3827.0159         131500.0                658.1575  2020-09-29       69.5608
+
+
+-----Stock trend report: 渝农商行-----
+{'code': '601077.XSHG', 'display_name': '渝农商行', 'name': 'YNSX', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.38%
+ema20 bias: -0.52%
+ema5 > ema20: True
+ema5 angle
+0   -0.765847
+1   -0.701546
+2    0.296219
+3    1.915636
+4    0.513611
+ema20 angle
+0   -0.555699
+1   -0.557340
+2   -0.286005
+3    0.232336
+4   -0.008059
+NATR
+108    1.613095
+109    1.542916
+110    1.549201
+111    1.498325
+112    1.451107
+113    1.393009
+114    1.367672
+115    1.330885
+116    1.409411
+117    1.389347
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735828  601077.XSHG    6.1782          0.5338    0.6288    2.0809    -9.0188       1135700.0      567.85         135700.0                   67.85  2020-09-29        5.8182
+
+
+-----Stock trend report: 北京银行-----
+{'code': '601169.XSHG', 'display_name': '北京银行', 'name': 'BJYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.58%
+ema20 bias: -0.55%
+ema5 > ema20: False
+ema5 angle
+0   -0.533782
+1   -0.928740
+2   -0.237242
+3    1.178570
+4    0.403847
+ema20 angle
+0   -0.428864
+1   -0.551711
+2   -0.390042
+3    0.029070
+4   -0.082833
+NATR
+108    1.199867
+109    1.163861
+110    1.165553
+111    1.160423
+112    1.120653
+113    1.088311
+114    1.108628
+115    1.070652
+116    1.114358
+117    1.099269
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736843  601169.XSHG    4.9579          0.1152    0.5147    1.5665    -3.1217       2114298.5    995.8346      1824801.125                859.4813  2020-09-29        4.6445
+
+
+-----Stock trend report: 农业银行-----
+{'code': '601288.XSHG', 'display_name': '农业银行', 'name': 'NYYH', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.09%
+ema20 bias: -0.86%
+ema5 > ema20: True
+ema5 angle
+0    0.003269
+1    0.002180
+2    0.001453
+3    0.382934
+4   -0.126678
+ema20 angle
+0   -0.049996
+1   -0.045234
+2   -0.040926
+3    0.072106
+4   -0.043896
+NATR
+108    0.883221
+109    0.845333
+110    0.832796
+111    0.818662
+112    0.862611
+113    0.851115
+114    0.880452
+115    0.885160
+116    0.906347
+117    0.914516
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738509  601288.XSHG    5.5615          0.0328    0.6173    1.7247     4.9566      34998304.0  11094.4619       29405530.0               9321.5527  2020-09-29        5.2308
+
+
+-----Stock trend report: 三六零-----
+{'code': '601360.XSHG', 'display_name': '三六零', 'name': 'SLL', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -1.23%
+ema20 bias: -3.68%
+ema5 > ema20: True
+ema5 angle
+0    -5.493350
+1    -9.691531
+2    -1.748175
+3    16.329809
+4     7.519028
+ema20 angle
+0   -4.659013
+1   -5.949292
+2   -4.031274
+3    1.475624
+4    0.298603
+NATR
+108    2.150787
+109    2.082222
+110    2.245941
+111    2.234950
+112    2.227022
+113    2.165219
+114    2.269548
+115    2.220635
+116    2.335266
+117    2.334387
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737951  601360.XSHG   37.4531           0.435    3.8296    9.5986  -145.7009        676405.5   1141.0961      178923.1719                301.8434  2020-09-29       19.0805
+
+
+-----Stock trend report: 工商银行-----
+{'code': '601398.XSHG', 'display_name': '工商银行', 'name': 'GSYH', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.12%
+ema20 bias: -0.46%
+ema5 > ema20: True
+ema5 angle
+0   -0.229035
+1    0.038295
+2   -0.165455
+3    0.844562
+4   -0.200859
+ema20 angle
+0   -0.154650
+1   -0.085354
+2   -0.131792
+3    0.153595
+4   -0.079302
+NATR
+108    0.892034
+109    0.873555
+110    0.872778
+111    0.855916
+112    0.873490
+113    0.874244
+114    0.868220
+115    0.851489
+116    0.869103
+117    0.886176
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736541  601398.XSHG    5.9709          0.0429    0.6931    2.0332     4.0216      35640624.0  17499.5469       26961222.0                13237.96  2020-09-29        5.6048
+
+
+-----Stock trend report: 中国建筑-----
+{'code': '601668.XSHG', 'display_name': '中国建筑', 'name': 'ZGJZ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.04%
+ema20 bias: 0.20%
+ema5 > ema20: False
+ema5 angle
+0   -1.021305
+1   -0.107986
+2    0.309977
+3    1.161422
+4    0.010445
+ema20 angle
+0   -0.337449
+1   -0.141612
+2   -0.018991
+3    0.255652
+4    0.013037
+NATR
+108    1.660491
+109    1.692850
+110    1.706343
+111    1.620335
+112    1.563801
+113    1.517305
+114    1.484970
+115    1.457527
+116    1.465104
+117    1.454972
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737570  601668.XSHG    5.1174           0.287    0.7914    0.1449   320.2235       4196507.0   2119.2361       4125360.25               2083.3069  2020-09-29        5.0601
+
+
+-----Stock trend report: 中国电建-----
+{'code': '601669.XSHG', 'display_name': '中国电建', 'name': 'ZGDJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.72%
+ema20 bias: -0.93%
+ema5 > ema20: True
+ema5 angle
+0   -0.832263
+1   -1.509459
+2    0.521330
+3    2.637524
+4    0.995551
+ema20 angle
+0   -0.731535
+1   -0.934655
+2   -0.409170
+3    0.284598
+4    0.039226
+NATR
+108    2.220397
+109    2.157919
+110    2.261248
+111    2.211629
+112    2.152524
+113    2.073567
+114    2.121510
+115    2.096015
+116    2.121367
+117    2.080766
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736885  601669.XSHG    8.1635          0.1294    0.6618    0.1616     -3.303       1529903.5    584.4231      1114440.125                425.7161  2020-09-29        8.0729
+
+
+-----Stock trend report: 中国中车-----
+{'code': '601766.XSHG', 'display_name': '中国中车', 'name': 'ZGZC', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.40%
+ema20 bias: -1.76%
+ema5 > ema20: True
+ema5 angle
+0   -0.415554
+1   -0.658983
+2    0.897484
+3    2.315979
+4    0.971778
+ema20 angle
+0   -0.663463
+1   -0.709402
+2   -0.259900
+3    0.255955
+4    0.067878
+NATR
+108    1.552143
+109    1.548848
+110    1.560195
+111    1.516321
+112    1.475631
+113    1.430072
+114    1.410826
+115    1.396334
+116    1.402364
+117    1.372695
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735648  601766.XSHG    14.769          0.0808    1.1683    0.7114    29.3341       2869886.5   1581.3074       2432779.75               1340.4617  2020-09-29       13.4067
+
+
+-----Stock trend report: 光大证券-----
+{'code': '601788.XSHG', 'display_name': '光大证券', 'name': 'GDZQ', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: True
+long arrange: False
+ema5 bias: 0.06%
+ema20 bias: 4.73%
+ema5 > ema20: False
+ema5 angle
+0     0.542690
+1    -7.426726
+2    -4.017542
+3    14.027775
+4    -0.960813
+ema20 angle
+0   -0.125052
+1   -2.349084
+2   -1.853070
+3    3.176059
+4   -0.124676
+NATR
+108    5.270212
+109    5.187426
+110    5.065454
+111    4.855913
+112    4.664666
+113    4.541259
+114    4.503915
+115    4.302572
+116    4.183160
+117    4.235782
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738441  601788.XSHG    92.816          1.3671     2.089    9.8081   -12.0467       461078.75    1030.972       390669.875                873.5379  2020-09-29      181.5268
+
+
+-----Stock trend report: 成都银行-----
+{'code': '601838.XSHG', 'display_name': '成都银行', 'name': 'CDYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -0.68%
+ema20 bias: 5.14%
+ema5 > ema20: False
+ema5 angle
+0   -6.726863
+1   -3.545834
+2   -1.793370
+3    4.524168
+4    1.112402
+ema20 angle
+0   -2.163843
+1   -1.685371
+2   -1.361342
+3    0.405090
+4   -0.179156
+NATR
+108    4.167601
+109    4.087054
+110    4.067829
+111    4.050349
+112    3.882724
+113    3.903930
+114    3.751325
+115    3.624190
+116    3.539278
+117    3.502674
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735296  601838.XSHG    6.1231          1.5257    0.9643    2.6436   -64.3191      361225.125    355.0843      189483.4844                186.2623  2020-09-29        6.3969
+
+
+-----Stock trend report: 中国石油-----
+{'code': '601857.XSHG', 'display_name': '中国石油', 'name': 'ZGSY', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.47%
+ema20 bias: -1.75%
+ema5 > ema20: True
+ema5 angle
+0   -0.376237
+1    0.131143
+2    0.469389
+3    1.267654
+4    0.272282
+ema20 angle
+0   -0.468160
+1   -0.314445
+2   -0.175365
+3    0.114172
+4   -0.060403
+NATR
+108    1.208782
+109    1.200151
+110    1.186830
+111    1.157144
+112    1.141556
+113    1.097537
+114    1.101078
+115    1.069363
+116    1.100720
+117    1.098332
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736420  601857.XSHG  -58.8071          0.0232    0.6296    0.3328 -2454.2812      18302098.0   7485.5581       16192208.0               6622.6128  2020-09-29        16.388
+
+
+-----Stock trend report: 中国中免-----
+{'code': '601888.XSHG', 'display_name': '中国中免', 'name': 'ZGZM', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: True
+long arrange: True
+ema5 bias: 0.03%
+ema20 bias: 7.71%
+ema5 > ema20: False
+ema5 angle
+0    63.208327
+1    40.922823
+2   -80.052689
+3   -49.431704
+4    -4.499216
+ema20 angle
+0    45.189393
+1    37.998386
+2   -47.398713
+3   -13.034316
+4    -0.541548
+NATR
+108    5.290979
+109    5.130732
+110    5.141498
+111    4.957472
+112    4.869724
+113    4.754988
+114    4.684818
+115    5.533924
+116    5.348100
+117    5.274359
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737555  601888.XSHG  193.0819          0.4807   24.8127   10.3014   436.2823     195247.5469   4379.4028      195247.5469               4379.4028  2020-09-29       94.6082
+
+
+-----Stock trend report: 建设银行-----
+{'code': '601939.XSHG', 'display_name': '建设银行', 'name': 'JSYH', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: False
+long arrange: False
+ema5 bias: 0.07%
+ema20 bias: -0.09%
+ema5 > ema20: True
+ema5 angle
+0   -0.524485
+1   -0.158681
+2   -0.296770
+3    1.520664
+4   -0.131899
+ema20 angle
+0   -0.169606
+1   -0.098886
+2   -0.144035
+3    0.360783
+4   -0.000977
+NATR
+108    1.254807
+109    1.203685
+110    1.194915
+111    1.165923
+112    1.189291
+113    1.183135
+114    1.189754
+115    1.188004
+116    1.213328
+117    1.230232
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737389  601939.XSHG    6.1361          0.4547    0.7102    2.0935   -17.3515      25001098.0  15350.6738        959365.75                589.0506  2020-09-29        5.7551
+
+
+-----Stock trend report: 中国核电-----
+{'code': '601985.XSHG', 'display_name': '中国核电', 'name': 'ZGHD', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.43%
+ema20 bias: 0.76%
+ema5 > ema20: False
+ema5 angle
+0   -0.265537
+1   -0.749939
+2    0.836851
+3    2.275612
+4    0.944831
+ema20 angle
+0   -0.583051
+1   -0.691209
+2   -0.243438
+3    0.270849
+4    0.081354
+NATR
+108    2.391734
+109    2.405947
+110    2.416154
+111    2.330233
+112    2.246250
+113    2.129566
+114    2.137404
+115    2.097720
+116    2.066339
+117    2.010492
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736945  601985.XSHG   13.7903          0.0981    1.3707    1.4541   -12.2093     1556546.125    687.9934      1556546.125                687.9934  2020-09-29       14.9157
+
+
+-----Stock trend report: 华友钴业-----
+{'code': '603799.XSHG', 'display_name': '华友钴业', 'name': 'HYGY', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -2.06%
+ema20 bias: -4.01%
+ema5 > ema20: True
+ema5 angle
+0   -13.614795
+1    -7.864646
+2    17.636011
+3    28.307176
+4    20.089359
+ema20 angle
+0   -15.861475
+1   -14.058026
+2    -6.244089
+3    -0.324289
+4    -0.184272
+NATR
+108    3.913150
+109    3.790891
+110    4.040914
+111    3.989593
+112    4.068918
+113    3.909299
+114    3.735986
+115    3.658562
+116    3.506392
+117    3.410881
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738291  603799.XSHG   90.5372          1.1171    4.1487    2.1015   647.6369     114126.1562    395.1047      107867.1484                373.4361  2020-09-29      330.5353
+
+
+-----Stock trend report: 洛阳钼业-----
+{'code': '603993.XSHG', 'display_name': '洛阳钼业', 'name': 'LYMY', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -1.69%
+ema20 bias: -2.43%
+ema5 > ema20: True
+ema5 angle
+0   -1.445306
+1   -1.536330
+2    2.030452
+3    2.879658
+4    1.729879
+ema20 angle
+0   -1.452583
+1   -1.477897
+2   -0.464355
+3    0.016398
+4   -0.039731
+NATR
+108    3.108458
+109    3.006375
+110    3.149354
+111    3.191252
+112    3.148778
+113    3.014760
+114    2.975606
+115    2.980492
+116    2.874026
+117    2.765911
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58734987  603993.XSHG   39.3793           0.345    1.9885    0.7682    -16.148       2159924.0    809.9715       1766577.25                662.4665  2020-09-29       43.6169
+
+
+Near EMA60 -----------------------------------------------
+-----Stock trend report: 大族激光-----
+{'code': '002008.XSHE', 'display_name': '大族激光', 'name': 'DZJG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.10%
+ema20 bias: -2.71%
+ema5 > ema20: True
+ema5 angle
+0    -2.845401
+1    -6.454701
+2    23.166510
+3    28.895994
+4    24.130413
+ema20 angle
+0   -8.658589
+1   -9.125801
+2   -0.087554
+3    4.278198
+4    5.173469
+NATR
+108    3.527989
+109    3.361182
+110    3.482193
+111    3.294427
+112    3.164245
+113    3.050825
+114    2.992524
+115    3.026327
+116    2.934975
+117    2.860017
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735927  002008.XSHE   39.9085          0.9704    3.9436    3.5404    36.3809     106707.1016    353.6273       99344.9609                329.2292  2020-09-29       55.0633
+
+
+-----Stock trend report: 视源股份-----
+{'code': '002841.XSHE', 'display_name': '视源股份', 'name': 'SYGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -0.23%
+ema20 bias: 0.23%
+ema5 > ema20: False
+ema5 angle
+0    25.001973
+1    24.270583
+2    24.888116
+3     0.532212
+4     3.216218
+ema20 angle
+0   -1.402788
+1    1.022274
+2    3.594088
+3   -1.654529
+4   -0.678830
+NATR
+108    2.834715
+109    2.812143
+110    2.921008
+111    2.825392
+112    2.854019
+113    2.799453
+114    2.806800
+115    2.746487
+116    2.751439
+117    2.633310
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738855  002841.XSHE   40.8224          0.2215    13.325    4.0272    58.9535      66820.7891    648.0948       40032.3008                388.2733  2020-09-29       40.2316
+
+
+-----Stock trend report: 保利地产-----
+{'code': '600048.XSHG', 'display_name': '保利地产', 'name': 'BLDC', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -1.05%
+ema20 bias: 0.89%
+ema5 > ema20: False
+ema5 angle
+0   -4.920216
+1   -6.695327
+2   -1.237034
+3    6.217129
+4   -0.040584
+ema20 angle
+0   -2.544691
+1   -3.282470
+2   -2.044595
+3    0.168332
+4   -1.048063
+NATR
+108    2.860937
+109    2.793406
+110    2.795716
+111    2.971124
+112    2.860439
+113    2.736017
+114    2.803117
+115    2.677636
+116    2.591240
+117    2.606252
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736194  600048.XSHG     6.837          0.4164    1.3477    0.8062     62.489       1196689.0   1923.0792        1196689.0               1923.0792  2020-09-29        6.8782
+
+
+-----Stock trend report: 上海建工-----
+{'code': '600170.XSHG', 'display_name': '上海建工', 'name': 'SHJG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.32%
+ema20 bias: -0.03%
+ema5 > ema20: False
+ema5 angle
+0   -0.095752
+1   -0.445797
+2    0.084767
+3    0.629443
+4    0.419638
+ema20 angle
+0   -0.191583
+1   -0.282470
+2   -0.146435
+3    0.031213
+4    0.028240
+NATR
+108    1.685965
+109    1.616181
+110    1.584388
+111    1.545326
+112    1.494620
+113    1.433796
+114    1.432464
+115    1.390493
+116    1.369828
+117    1.317479
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736830  600170.XSHG    8.6102          0.1408     1.042    0.1343     3.0582       890439.75    276.9268        890439.75                276.9268  2020-09-29        7.0461
+
+
+-----Stock trend report: 金地集团-----
+{'code': '600383.XSHG', 'display_name': '金地集团', 'name': 'JDJT', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -0.93%
+ema20 bias: 1.84%
+ema5 > ema20: False
+ema5 angle
+0   -2.890483
+1   -4.782271
+2   -2.620819
+3    4.923902
+4   -3.389825
+ema20 angle
+0   -1.331924
+1   -2.022959
+2   -1.666885
+3    0.401289
+4   -1.546403
+NATR
+108    3.572031
+109    3.595466
+110    3.563052
+111    3.729989
+112    3.621461
+113    3.577737
+114    3.567528
+115    3.472457
+116    3.354557
+117    3.439575
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736398  600383.XSHG     7.041          0.3689    1.3033    1.0913        6.3     451458.3438    663.6438      451458.3438                663.6438  2020-09-29        6.5869
+
+
+-----Stock trend report: 国电南瑞-----
+{'code': '600406.XSHG', 'display_name': '国电南瑞', 'name': 'GDNR', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.06%
+ema20 bias: -1.87%
+ema5 > ema20: True
+ema5 angle
+0    -2.969786
+1    -0.071777
+2     7.171903
+3    19.318291
+4    12.062798
+ema20 angle
+0   -4.573383
+1   -3.596230
+2   -1.184286
+3    3.290111
+4    2.650747
+NATR
+108    3.078367
+109    2.957280
+110    3.095072
+111    2.969572
+112    2.848311
+113    2.835648
+114    2.732035
+115    2.652397
+116    2.642076
+117    2.576954
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735624  600406.XSHG     20.07          0.4279    2.9622    2.6954    62.8793     462194.0938    906.8248       293489.875                575.8272  2020-09-29       20.8798
+
+
+-----Stock trend report: 中金黄金-----
+{'code': '600489.XSHG', 'display_name': '中金黄金', 'name': 'ZJHJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -1.41%
+ema20 bias: 0.19%
+ema5 > ema20: False
+ema5 angle
+0   -2.213144
+1   -1.094060
+2    2.134333
+3    5.039237
+4    2.793010
+ema20 angle
+0   -2.714223
+1   -2.347116
+2   -1.306034
+3   -0.145076
+4   -0.294959
+NATR
+108    3.773760
+109    3.728251
+110    3.798636
+111    3.584951
+112    3.539273
+113    3.506666
+114    3.413178
+115    3.276832
+116    3.131500
+117    3.081713
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736698  600489.XSHG  232.6933           0.765    2.1827    1.2419    29.4679       484731.25    486.1855      345113.7188                346.1491  2020-09-29       271.964
+
+
+-----Stock trend report: 中天科技-----
+{'code': '600522.XSHG', 'display_name': '中天科技', 'name': 'ZTKJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: 0.50%
+ema20 bias: -2.66%
+ema5 > ema20: True
+ema5 angle
+0    0.483446
+1    0.513277
+2    7.555540
+3    8.815900
+4    6.280783
+ema20 angle
+0   -1.764383
+1   -1.541911
+2    0.678125
+3    1.704413
+4    1.651221
+NATR
+108    3.047857
+109    2.938551
+110    2.927879
+111    2.959700
+112    2.987482
+113    2.934507
+114    2.838167
+115    2.832622
+116    2.763559
+117    2.684016
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738708  600522.XSHG   16.3485          0.7855    1.4992    0.7813    49.9599     306613.5938    321.0244      306613.5938                321.0244  2020-09-29       16.3013
+
+
+-----Stock trend report: 东方明珠-----
+{'code': '600637.XSHG', 'display_name': '东方明珠', 'name': 'DFMZ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.70%
+ema20 bias: -0.00%
+ema5 > ema20: False
+ema5 angle
+0   -0.985258
+1   -2.755617
+2    1.407974
+3    4.368095
+4    2.152763
+ema20 angle
+0   -1.425419
+1   -1.889485
+2   -0.782462
+3    0.274223
+4    0.029839
+NATR
+108    2.402181
+109    2.293291
+110    2.326775
+111    2.257632
+112    2.195707
+113    2.105516
+114    2.139487
+115    2.111787
+116    2.075191
+117    2.020386
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738686  600637.XSHG    16.859          0.1874    1.1544    2.6686   -66.8064     341450.0312     334.621      341450.0312                 334.621  2020-09-29       16.3784
+
+
+-----Stock trend report: 宝丰能源-----
+{'code': '600989.XSHG', 'display_name': '宝丰能源', 'name': 'BFNY', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -2.03%
+ema20 bias: 0.18%
+ema5 > ema20: False
+ema5 angle
+0    1.178202
+1   -7.197708
+2   -4.622831
+3    7.374613
+4    5.877958
+ema20 angle
+0   -2.115718
+1   -4.199382
+2   -3.746344
+3   -0.393181
+4   -0.082904
+NATR
+108    4.328143
+109    4.205436
+110    4.105948
+111    4.024211
+112    3.905723
+113    3.730525
+114    3.928825
+115    3.903472
+116    3.870870
+117    3.709906
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737407  600989.XSHG   19.4459          1.6329    3.3349    5.3456   -22.3829        733336.0    778.8028          73336.0                 77.8828  2020-09-29       20.4847
+
+
+-----Stock trend report: 大秦铁路-----
+{'code': '601006.XSHG', 'display_name': '大秦铁路', 'name': 'DQTL', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -0.02%
+ema20 bias: -0.68%
+ema5 > ema20: True
+ema5 angle
+0   -0.242287
+1   -0.352506
+2    1.101755
+3    2.261303
+4    1.126203
+ema20 angle
+0   -0.493208
+1   -0.500801
+2   -0.071146
+3    0.372163
+4    0.227588
+NATR
+108    1.041630
+109    1.022771
+110    1.013138
+111    1.036837
+112    1.023915
+113    0.995561
+114    0.970754
+115    0.980347
+116    0.997751
+117    0.984279
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735739  601006.XSHG    8.4654          0.0831    0.8417    1.2974    58.8836     1486679.125    948.5013      1486679.125                948.5013  2020-09-29        6.9389
+
+
+-----Stock trend report: 宁波港-----
+{'code': '601018.XSHG', 'display_name': '宁波港', 'name': 'NBG', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: True
+long arrange: False
+ema5 bias: -0.76%
+ema20 bias: 0.97%
+ema5 > ema20: False
+ema5 angle
+0   -1.131090
+1   -2.280836
+2    1.534040
+3    1.213742
+4    0.045340
+ema20 angle
+0   -0.585449
+1   -0.966157
+2   -0.001148
+3    0.053529
+4   -0.169838
+NATR
+108    2.234840
+109    2.269973
+110    2.233613
+111    2.397266
+112    2.344986
+113    2.297290
+114    2.427897
+115    2.492265
+116    2.436517
+117    2.396954
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737331  601018.XSHG   20.1675          0.0529    1.1867    2.8063   311.3675      1580741.75    602.2626       1317284.75                501.8855  2020-09-29       17.5986
+
+
+-----Stock trend report: 中国人保-----
+{'code': '601319.XSHG', 'display_name': '中国人保', 'name': 'ZGRB', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.24%
+ema20 bias: -0.18%
+ema5 > ema20: False
+ema5 angle
+0   -0.372314
+1   -1.584707
+2    0.662099
+3    4.063317
+4    1.376266
+ema20 angle
+0   -0.725342
+1   -1.038155
+2   -0.448271
+3    0.631166
+4    0.189107
+NATR
+108    2.715134
+109    2.629607
+110    2.563789
+111    2.481461
+112    2.387663
+113    2.262847
+114    2.238999
+115    2.176742
+116    2.189685
+117    2.186703
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736255  601319.XSHG   15.5236          0.3885    1.5735    0.5251   118.0687       4422399.0   3024.9209      560156.6875                383.1472  2020-09-29       13.5035
+
+
+-----Stock trend report: 中国建筑-----
+{'code': '601668.XSHG', 'display_name': '中国建筑', 'name': 'ZGJZ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 0.04%
+ema20 bias: 0.20%
+ema5 > ema20: False
+ema5 angle
+0   -1.021305
+1   -0.107986
+2    0.309977
+3    1.161422
+4    0.010445
+ema20 angle
+0   -0.337449
+1   -0.141612
+2   -0.018991
+3    0.255652
+4    0.013037
+NATR
+108    1.660491
+109    1.692850
+110    1.706343
+111    1.620335
+112    1.563801
+113    1.517305
+114    1.484970
+115    1.457527
+116    1.465104
+117    1.454972
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737570  601668.XSHG    5.1174           0.287    0.7914    0.1449   320.2235       4196507.0   2119.2361       4125360.25               2083.3069  2020-09-29        5.0601
+
+
+-----Stock trend report: 美凯龙-----
+{'code': '601828.XSHG', 'display_name': '美凯龙', 'name': 'MKL', 'type': 'stock', 'parent': None}
+above5: True
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -0.97%
+ema20 bias: 0.47%
+ema5 > ema20: False
+ema5 angle
+0   -2.376132
+1   -2.538262
+2    1.171336
+3    2.307635
+4    0.584308
+ema20 angle
+0   -1.556943
+1   -1.681363
+2   -0.703126
+3   -0.199654
+4   -0.453467
+NATR
+108    2.338323
+109    2.297451
+110    2.385473
+111    2.335417
+112    2.260237
+113    2.182388
+114    2.163546
+115    2.109967
+116    2.030507
+117    1.982752
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735749  601828.XSHG   13.1051          0.3838    0.8121    2.5571    37.0955        390500.0    376.8325       43536.7031                 42.0129  2020-09-29         8.412
+
+
+-----Stock trend report: 建设银行-----
+{'code': '601939.XSHG', 'display_name': '建设银行', 'name': 'JSYH', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: False
+long arrange: False
+ema5 bias: 0.07%
+ema20 bias: -0.09%
+ema5 > ema20: True
+ema5 angle
+0   -0.524485
+1   -0.158681
+2   -0.296770
+3    1.520664
+4   -0.131899
+ema20 angle
+0   -0.169606
+1   -0.098886
+2   -0.144035
+3    0.360783
+4   -0.000977
+NATR
+108    1.254807
+109    1.203685
+110    1.194915
+111    1.165923
+112    1.189291
+113    1.183135
+114    1.189754
+115    1.188004
+116    1.213328
+117    1.230232
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737389  601939.XSHG    6.1361          0.4547    0.7102    2.0935   -17.3515      25001098.0  15350.6738        959365.75                589.0506  2020-09-29        5.7551
+
+
+Near EMA120 -----------------------------------------------
+EM20 Long Change direction
+-----Stock trend report: 长春高新-----
+{'code': '000661.XSHE', 'display_name': '长春高新', 'name': 'CCGX', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -1.28%
+ema20 bias: -4.56%
+ema5 > ema20: True
+ema5 angle
+0    41.837835
+1     4.585114
+2    40.034573
+3    77.971992
+4    82.564193
+ema20 angle
+0   -63.561985
+1   -63.054298
+2   -57.257215
+3   -12.737829
+4    47.484309
+NATR
+108    5.383414
+109    5.228005
+110    5.181324
+111    5.024706
+112    4.850580
+113    4.708923
+114    4.663566
+115    4.608281
+116    4.474812
+117    4.390081
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737341  000661.XSHE   63.7035          1.0063   16.3452   19.0191   108.2914      40472.0273   1502.2812       34002.1523                1262.126  2020-09-29       84.6351
+
+
+-----Stock trend report: 北新建材-----
+{'code': '000786.XSHE', 'display_name': '北新建材', 'name': 'BXJC', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -1.17%
+ema20 bias: 4.62%
+ema5 > ema20: False
+ema5 angle
+0   -36.666920
+1   -28.501351
+2   -16.803848
+3     6.579338
+4    32.083216
+ema20 angle
+0   -12.754934
+1   -12.305834
+2   -10.216388
+3    -4.151451
+4     5.226395
+NATR
+108    4.600078
+109    4.388696
+110    4.432805
+111    4.640109
+112    5.055967
+113    5.040349
+114    4.983545
+115    4.848984
+116    4.603237
+117    4.480705
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737097  000786.XSHE   25.7658          0.8577    3.5635    3.6914    70.6533     168950.7812    524.4232      168950.7812                524.4232  2020-09-29      118.8779
+
+
+-----Stock trend report: 顺鑫农业-----
+{'code': '000860.XSHE', 'display_name': '顺鑫农业', 'name': 'SXNY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -2.53%
+ema20 bias: -0.58%
+ema5 > ema20: False
+ema5 angle
+0   -19.684887
+1   -11.960509
+2   -14.639880
+3    32.450178
+4    41.793439
+ema20 angle
+0   -24.280816
+1   -21.827683
+2   -21.636829
+3    -7.264066
+4     1.086165
+NATR
+108    4.548743
+109    4.389176
+110    4.453927
+111    4.399109
+112    4.252163
+113    4.059817
+114    3.902545
+115    3.841498
+116    3.855950
+117    3.799750
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737674  000860.XSHE   62.7962          0.8447    5.6627    2.7846    86.2755      74176.6953    445.6536       74176.6953                445.6536  2020-09-29       55.0714
+
+
+-----Stock trend report: 正邦科技-----
+{'code': '002157.XSHE', 'display_name': '正邦科技', 'name': 'ZBKJ', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -2.78%
+ema20 bias: -4.54%
+ema5 > ema20: True
+ema5 angle
+0     2.914203
+1    -1.683760
+2     0.596018
+3     5.914837
+4    25.752661
+ema20 angle
+0   -7.809851
+1   -8.092675
+2   -6.847138
+3   -4.632121
+4    2.564508
+NATR
+108    5.466910
+109    5.146211
+110    5.142892
+111    4.925930
+112    5.143843
+113    4.922420
+114    4.763960
+115    4.636462
+116    4.565141
+117    4.482241
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737016  002157.XSHE   10.6218          1.5209    3.9013    1.5523    15.1138     250899.2344    460.9019      224618.3125                412.6238  2020-09-29       27.9834
+
+
+-----Stock trend report: 海大集团-----
+{'code': '002311.XSHE', 'display_name': '海大集团', 'name': 'HDJT', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.29%
+ema20 bias: 1.27%
+ema5 > ema20: False
+ema5 angle
+0    22.097103
+1    33.451333
+2    -7.757192
+3    28.480585
+4    54.170016
+ema20 angle
+0   -11.062517
+1    -3.745485
+2   -12.625353
+3    -1.243507
+4    15.255842
+NATR
+108    4.897216
+109    4.675843
+110    4.681032
+111    4.495944
+112    4.485175
+113    4.344539
+114    4.315969
+115    4.575837
+116    4.647339
+117    4.600265
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738841  002311.XSHE   46.2619          0.5458    9.7876    1.8341    66.1963     159860.2344    961.7191      158362.9062                952.7112  2020-09-29       58.3298
+
+
+-----Stock trend report: 中公教育-----
+{'code': '002607.XSHE', 'display_name': '中公教育', 'name': 'ZGJY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.92%
+ema20 bias: 0.38%
+ema5 > ema20: False
+ema5 angle
+0    15.325751
+1     9.427096
+2     3.473022
+3    -5.495304
+4    12.908955
+ema20 angle
+0   -1.426300
+1   -1.563177
+2   -2.232034
+3   -4.249928
+4    0.949593
+NATR
+108    5.299224
+109    5.165715
+110    5.413342
+111    5.427528
+112    5.197709
+113    5.074429
+114    4.911826
+115    4.942706
+116    4.975741
+117    4.750567
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737875  002607.XSHE  186.8811           0.961  115.4857   24.1474    61.7912     616739.9375   2015.5061       78399.0938                256.2082  2020-09-29      111.6903
+
+
+-----Stock trend report: 牧原股份-----
+{'code': '002714.XSHE', 'display_name': '牧原股份', 'name': 'MYGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.88%
+ema20 bias: -4.56%
+ema5 > ema20: True
+ema5 angle
+0    18.288769
+1    12.425669
+2   -18.078901
+3    40.882782
+4    67.524340
+ema20 angle
+0   -21.028296
+1   -19.178612
+2   -24.224433
+3    -5.571972
+4    23.626832
+NATR
+108    4.011693
+109    3.856953
+110    3.767139
+111    3.629659
+112    3.918992
+113    3.824727
+114    3.746513
+115    3.840241
+116    3.763513
+117    3.860772
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58734997  002714.XSHE   16.2624           0.982    8.9865    8.1345    12.6207     374783.4062   2773.3972      249496.5469               1846.2744  2020-09-29       45.3587
+
+
+-----Stock trend report: 南方航空-----
+{'code': '600029.XSHG', 'display_name': '南方航空', 'name': 'NFHK', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.93%
+ema20 bias: 3.00%
+ema5 > ema20: False
+ema5 angle
+0   -2.385044
+1   -2.162877
+2   -0.105705
+3    2.220244
+4    2.624979
+ema20 angle
+0   -1.334836
+1   -1.371367
+2   -0.858962
+3   -0.122407
+4    0.216653
+NATR
+108    3.821181
+109    3.737691
+110    3.916227
+111    3.816335
+112    3.628998
+113    3.599803
+114    3.483116
+115    3.366111
+116    3.313474
+117    3.176153
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738365  600029.XSHG  -12.3901          0.5327    1.2521    0.7426     5.6488      1532930.25    893.6983      811152.0625                472.9016  2020-09-29       33.7117
+
+
+-----Stock trend report: 圆通速递-----
+{'code': '600233.XSHG', 'display_name': '圆通速递', 'name': 'YTSD', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -1.12%
+ema20 bias: -1.22%
+ema5 > ema20: True
+ema5 angle
+0    -5.265089
+1    -3.134870
+2     4.012959
+3     8.349641
+4    11.924471
+ema20 angle
+0   -4.903338
+1   -4.329820
+2   -2.177728
+3   -0.334253
+4    1.552485
+NATR
+108    4.559840
+109    4.386846
+110    4.413686
+111    4.453735
+112    4.273662
+113    4.047993
+114    3.906754
+115    3.831236
+116    3.650816
+117    3.594974
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735333  600233.XSHG    24.838          0.3804    2.6953    1.3881    43.1355     315983.0625    441.1124      315764.4375                440.8072  2020-09-29       26.4503
+
+
+-----Stock trend report: 安迪苏-----
+{'code': '600299.XSHG', 'display_name': '安迪苏', 'name': 'ADS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: False
+long arrange: False
+ema5 bias: -1.57%
+ema20 bias: -1.71%
+ema5 > ema20: True
+ema5 angle
+0    1.364687
+1   -4.808281
+2    3.086465
+3    7.366371
+4    6.061352
+ema20 angle
+0   -2.926291
+1   -4.278947
+2   -2.077011
+3   -0.352136
+4    0.008801
+NATR
+108    3.446439
+109    3.394120
+110    3.435598
+111    3.314391
+112    3.284338
+113    3.193677
+114    3.258964
+115    3.249840
+116    3.141404
+117    3.074063
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738907  600299.XSHG   35.3649          0.1388     2.642    3.1144    85.1096      268190.125    350.5245       268190.125                350.5245  2020-09-29       35.3215
+
+
+-----Stock trend report: 杭州银行-----
+{'code': '600926.XSHG', 'display_name': '杭州银行', 'name': 'HZYH', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.72%
+ema20 bias: 6.83%
+ema5 > ema20: False
+ema5 angle
+0   -6.043641
+1   -5.932665
+2   -5.101693
+3    3.651366
+4    5.854819
+ema20 angle
+0   -2.134304
+1   -2.476061
+2   -2.567325
+3   -0.305382
+4    0.705875
+NATR
+108    4.463106
+109    4.322462
+110    4.376755
+111    4.227307
+112    4.052302
+113    4.042972
+114    3.967964
+115    3.861860
+116    3.830751
+117    3.743621
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738248  600926.XSHG   10.0051             0.4    1.1421    2.9597    -2.5211     593020.0625    704.5078      502232.3125                 596.652  2020-09-29       10.6709
+
+
+-----Stock trend report: 中国电影-----
+{'code': '600977.XSHG', 'display_name': '中国电影', 'name': 'ZGDY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.46%
+ema20 bias: 0.53%
+ema5 > ema20: False
+ema5 angle
+0    -6.039455
+1     0.351380
+2     0.616203
+3     1.174595
+4    10.037499
+ema20 angle
+0   -3.207150
+1   -1.649239
+2   -1.383177
+3   -1.033308
+4    1.738264
+NATR
+108    2.886331
+109    2.837809
+110    2.956513
+111    3.092696
+112    3.038695
+113    3.062398
+114    2.944250
+115    2.962936
+116    2.879815
+117    2.926141
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735623  600977.XSHG -211.1514          0.5406    2.3748    5.5198   -11.2858        186700.0    258.7662         186700.0                258.7662  2020-09-29       24.3786
+
+
+-----Stock trend report: 春秋航空-----
+{'code': '601021.XSHG', 'display_name': '春秋航空', 'name': 'CQHK', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -1.30%
+ema20 bias: 4.77%
+ema5 > ema20: False
+ema5 angle
+0   -12.149308
+1    -8.354426
+2   -17.461965
+3    -4.557586
+4    16.709253
+ema20 angle
+0   -7.032676
+1   -6.422577
+2   -9.299702
+3   -6.334630
+4    0.029333
+NATR
+108    3.526236
+109    3.527332
+110    3.698150
+111    3.604131
+112    3.530156
+113    3.500588
+114    3.443332
+115    3.490657
+116    3.422215
+117    3.375591
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737133  601021.XSHG   71.3275          0.4182    2.8897    3.5257    16.3179      91646.2734    412.4999       91646.2734                412.4999  2020-09-29       22.4062
+
+
+-----Stock trend report: 君正集团-----
+{'code': '601216.XSHG', 'display_name': '君正集团', 'name': 'JZJT', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -1.06%
+ema20 bias: 8.70%
+ema5 > ema20: False
+ema5 angle
+0    -7.643517
+1    -6.058371
+2     2.438000
+3     5.618927
+4    10.144172
+ema20 angle
+0   -3.804248
+1   -3.714629
+2   -1.509934
+3   -0.220533
+4    1.655296
+NATR
+108    8.701104
+109    8.344336
+110    8.088816
+111    7.911897
+112    8.303487
+113    8.089200
+114    7.790960
+115    7.315377
+116    7.041325
+117    6.880784
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735257  601216.XSHG   25.7043          1.8357    3.5278    4.8784    10.0711       843801.75    613.4439        843801.75                613.4439  2020-09-29       24.6192
+
+
+-----Stock trend report: 广汽集团-----
+{'code': '601238.XSHG', 'display_name': '广汽集团', 'name': 'GQJT', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.53%
+ema20 bias: -0.26%
+ema5 > ema20: False
+ema5 angle
+0    -5.117401
+1    -4.367152
+2     0.711602
+3     5.613008
+4    11.430334
+ema20 angle
+0   -3.132212
+1   -3.106521
+2   -1.776072
+3   -0.134120
+4    2.114950
+NATR
+108    3.505176
+109    3.463216
+110    3.564657
+111    3.709955
+112    3.589954
+113    3.441505
+114    3.460067
+115    3.400161
+116    3.272275
+117    3.282999
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58735555  601238.XSHG   24.3917          0.1957     1.218    1.7191   -10.5616    1.023793e+06    979.7698        608456.25                582.2926  2020-09-29       14.8057
+
+
+good stock
+-----Stock trend report: 吉祥航空-----
+{'code': '603885.XSHG', 'display_name': '吉祥航空', 'name': 'JXHK', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -2.78%
+ema20 bias: 3.27%
+ema5 > ema20: False
+ema5 angle
+0   -3.539982
+1   -2.552292
+2   -1.892950
+3   -0.689437
+4   -3.891391
+ema20 angle
+0   -2.621138
+1   -2.426278
+2   -2.249927
+3   -1.872326
+4   -2.674879
+NATR
+108    5.101337
+109    5.027215
+110    4.874335
+111    4.626133
+112    4.487902
+113    4.378985
+114    4.242086
+115    4.108385
+116    4.015786
+117    3.953356
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738204  603885.XSHG  -81.7697          0.4886    2.1279    1.6515    88.2085     196614.4219    212.3436      179701.3438                194.0775  2020-09-29       21.3524
+
+
+-----Stock trend report: 三一重工-----
+{'code': '600031.XSHG', 'display_name': '三一重工', 'name': 'SYZG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 6.59%
+ema20 bias: 8.39%
+ema5 > ema20: False
+ema5 angle
+0     1.893885
+1     4.120713
+2    15.537470
+3    38.846247
+4    31.253577
+ema20 angle
+0     4.714456
+1     5.080267
+2     8.314792
+3    17.190575
+4    16.694380
+NATR
+108    3.722031
+109    3.610274
+110    3.576766
+111    3.631192
+112    3.550215
+113    3.439432
+114    3.306520
+115    3.319811
+116    3.407356
+117    3.491274
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736095  600031.XSHG   16.2162           0.418    4.2032     2.573  -946.4967     847279.0625   2096.1682      847279.0625               2096.1682  2020-09-29       18.7047
+
+
+-----Stock trend report: 中公教育-----
+{'code': '002607.XSHE', 'display_name': '中公教育', 'name': 'ZGJY', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: -0.92%
+ema20 bias: 0.38%
+ema5 > ema20: False
+ema5 angle
+0    15.325751
+1     9.427096
+2     3.473022
+3    -5.495304
+4    12.908955
+ema20 angle
+0   -1.426300
+1   -1.563177
+2   -2.232034
+3   -4.249928
+4    0.949593
+NATR
+108    5.299224
+109    5.165715
+110    5.413342
+111    5.427528
+112    5.197709
+113    5.074429
+114    4.911826
+115    4.942706
+116    4.975741
+117    4.750567
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737875  002607.XSHE  186.8811           0.961  115.4857   24.1474    61.7912     616739.9375   2015.5061       78399.0938                256.2082  2020-09-29      111.6903
+
+
+-----Stock trend report: 三一重工-----
+{'code': '600031.XSHG', 'display_name': '三一重工', 'name': 'SYZG', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: True
+ema5 bias: 6.59%
+ema20 bias: 8.39%
+ema5 > ema20: False
+ema5 angle
+0     1.893885
+1     4.120713
+2    15.537470
+3    38.846247
+4    31.253577
+ema20 angle
+0     4.714456
+1     5.080267
+2     8.314792
+3    17.190575
+4    16.694380
+NATR
+108    3.722031
+109    3.610274
+110    3.576766
+111    3.631192
+112    3.550215
+113    3.439432
+114    3.306520
+115    3.319811
+116    3.407356
+117    3.491274
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58736095  600031.XSHG   16.2162           0.418    4.2032     2.573  -946.4967     847279.0625   2096.1682      847279.0625               2096.1682  2020-09-29       18.7047
+
+
+-----Stock trend report: 新日股份-----
+{'code': '603787.XSHG', 'display_name': '新日股份', 'name': 'XRGF', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 5.92%
+ema20 bias: 10.93%
+ema5 > ema20: False
+ema5 angle
+0    -3.937391
+1    -4.149680
+2    16.082140
+3    37.072133
+4    54.978625
+ema20 angle
+0    -1.677446
+1    -1.953904
+2     3.737482
+3    12.410408
+4    24.839696
+NATR
+108    6.292099
+109    6.057470
+110    6.132862
+111    6.086004
+112    6.236408
+113    6.042696
+114    5.963034
+115    5.810703
+116    5.716048
+117    5.563499
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58737316  603787.XSHG   82.9772          1.2046    5.2276    1.3987    10.0597         20400.0      51.204          20400.0                  51.204  2020-09-29       72.6019
+
+
+-----Stock trend report: 西安旅游-----
+{'code': '000610.XSHE', 'display_name': '西安旅游', 'name': 'XALY', 'type': 'stock', 'parent': None}
+above5: False
+above20: False
+above60: False
+long arrange: False
+ema5 bias: -4.67%
+ema20 bias: 3.65%
+ema5 > ema20: False
+ema5 angle
+0   -11.307282
+1   -14.214111
+2   -10.879609
+3    -4.087819
+4    -6.332657
+ema20 angle
+0   -3.285969
+1   -4.928514
+2   -4.840584
+3   -3.458176
+4   -4.162073
+NATR
+108    5.694355
+109    5.422679
+110    5.565602
+111    5.474066
+112    5.365177
+113    5.712210
+114    5.869071
+115    5.825582
+116    5.530078
+117    5.430091
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738231  000610.XSHE  -53.5285          5.6398    2.7812     3.815   -22.1559       23674.791      23.225       23539.4863                 23.0922  2020-09-29      -76.8983
+
+
+-----Stock trend report: 南极电商-----
+{'code': '002127.XSHE', 'display_name': '南极电商', 'name': 'NJDS', 'type': 'stock', 'parent': None}
+above5: True
+above20: True
+above60: True
+long arrange: False
+ema5 bias: 4.01%
+ema20 bias: -0.33%
+ema5 > ema20: True
+ema5 angle
+0   -12.293070
+1   -11.783237
+2    23.633937
+3    39.638166
+4    28.910260
+ema20 angle
+0    -5.531465
+1    -6.034630
+2     3.953670
+3    12.181239
+4    11.051119
+NATR
+108    5.675873
+109    5.419856
+110    5.590082
+111    5.294015
+112    5.206067
+113    5.334505
+114    5.318377
+115    5.139311
+116    5.009507
+117    4.870132
+fundamental 
+   Unnamed: 0        id         code  pe_ratio  turnover_ratio  pb_ratio  ps_ratio  pcf_ratio  capitalization  market_cap  circulating_cap  circulating_market_cap         day  pe_ratio_lyr
+0           0  58738770  002127.XSHE   34.2536          1.3582    8.5675   10.9872   -256.115     245487.0469    428.3749      195364.2031                340.9105  2020-09-29       35.5163
+
+
