@@ -1,23 +1,13 @@
-# DreamTrader
+# DreamTrader US Market 
 
+这是一个比较简单易懂的选股程序，目前逻辑是收盘价大于20ema 并且当前均线密集。
 ## 如何使用
 
-1. 创建JQData的账号。将config-example.json, 重命名. 并填入你的用户名和密码
-2. 执行脚本 ./daily_analyse.sh
+直接运行python_us即可
 
-## 已知的bug
+## API问题
+免费并且可以频繁调用的美股api目前找到合适的是yfinance调用Yahoo finance，存在的问题包括调用速度相对较慢，没有现成的技术指标函数。如果有更合适的api请帮忙更改
 
-1. 生成report时, 在生成行业市场宽度会有NaN. 解决方案：删除本地最新的report/daily-report-YYYY-MM-DD.txt, 再跑一边脚本。
 
-## 如何贡献repo
 
-1. 通过发PR的方式贡献代码
-2. 开源社区可以选取TODO中, 自己愿意承担的任务，建立相应的issue，并assign给自己，进行开发
-3. 有任何问题，直接提交issue即可
 
-## TODO
-
-1. 增加市场宽度图表
-2. 增加美股数据源
-3. 完善readme
-4. 支持mysql或者mongo数据源
