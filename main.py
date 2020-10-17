@@ -6,6 +6,7 @@ from src.config import Config
 import logging
 from datetime import datetime
 
+
 # generate report to file
 daily_report_file_path = 'report/daily-report-{}.txt'.format(
     datetime.now().strftime('%Y-%m-%d'))

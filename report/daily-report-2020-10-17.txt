@@ -1,0 +1,16 @@
+Welcome!!!
+auth result: None
+report first level market breadth
+HS300 index
+2020-10-12 00:00:00 : 75.67%
+2020-10-13 00:00:00 : 68.00%
+2020-10-14 00:00:00 : 53.33%
+2020-10-15 00:00:00 : 53.00%
+2020-10-16 00:00:00 : 53.67%
+report HY001 能源
+114 : nan%
+115 : nan%
+116 : nan%
+117 : nan%
+118 : nan%
+report HY002 材料

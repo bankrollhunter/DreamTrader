@@ -4,7 +4,6 @@ from .trend import TrendAnalyze
 from jqdatasdk import *
 from jqdatasdk.api import get_fundamentals, get_industry_stocks, get_security_info
 from jqdatasdk.utils import query
-from tables import file
 import talib
 from datetime import datetime, timedelta
 import json
