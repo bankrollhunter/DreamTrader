@@ -184,3 +184,7 @@ selector.filterChangeDirectionEMA20(
 2. 增加美股数据源
 3. 完善readme
 4. 支持mysql或者mongo数据源
+
+## 联系作者
+
+ruoxuanwanggoing@gmail.com
